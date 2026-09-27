@@ -1,0 +1,17 @@
+# entorno y datos (se reconstruyen: ver lab/repo/README.md)
+lab/.venv/
+lab/data/
+Rainfall-Runoff/
+# pesados / regenerables desde el pipeline
+lab/repo/outputs/**/*.pt
+lab/repo/outputs/**/*.npz
+lab/repo/outputs/**/pkl/
+lab/repo/outputs/experiments_v1/
+lab/repo/outputs/train_run/
+__pycache__/
+*.pyc
+# descargas de Windows y copias sueltas (los PDFs estan en docs/)
+*:Zone.Identifier
+/1-s2.0-*.pdf
+/s41598-025-88959-5*.pdf
+lab/pip_torch.log
