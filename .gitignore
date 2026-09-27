@@ -15,3 +15,4 @@ __pycache__/
 /1-s2.0-*.pdf
 /s41598-025-88959-5*.pdf
 lab/pip_torch.log
+lab/repo/catboost_info/
