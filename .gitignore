@@ -16,3 +16,8 @@ __pycache__/
 /s41598-025-88959-5*.pdf
 lab/pip_torch.log
 lab/repo/catboost_info/
+# papers: no se redistribuyen (derechos de autor); ver docs/REFERENCIAS.md
+docs/*.pdf
+docs/Rong2025_RFKAN_PV.txt
+docs/Zhao2024_WOA-VMD-SCINet.txt
+docs/Zhang2024_TACDPG.txt

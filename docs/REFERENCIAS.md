@@ -1,5 +1,10 @@
 # Referencias — Laboratorio 2
 
+> **Los PDFs y sus textos extraídos no están en el repositorio**, por derechos de
+> autor. Se descargan desde los links de abajo y se guardan en `docs/` con los
+> nombres indicados (`Rong2025_RFKAN_PV.pdf`, `Zhao2024_WOA-VMD-SCINet.pdf`,
+> `Zhang2024_TACDPG.pdf`). Los `.txt` se generan con `pdftotext`.
+
 ## 1. Paper asignado
 
 **Recurrent Fourier-Kolmogorov Arnold Networks for photovoltaic power forecasting**
