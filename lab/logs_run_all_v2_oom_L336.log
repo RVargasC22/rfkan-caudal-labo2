@@ -1,0 +1,1103 @@
+[14:39:20] === 1/6 seqlen ===
+[KAN_L72] ep   1/18 grid=3 train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0247 val_CORR=0.3546 NSEmed=0.509 (3s)
+[KAN_L72] ep   2/18 grid=3 train_rmse=0.1264 val_RMSE=0.1379 val_MAE=0.0247 val_CORR=0.3545 NSEmed=0.509 (3s)
+[KAN_L72] ep   3/18 grid=3 train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3545 NSEmed=0.519 (3s)
+[KAN_L72] ep   4/18 grid=5 train_rmse=0.1206 val_RMSE=0.1288 val_MAE=0.0347 val_CORR=0.4363 NSEmed=0.351 (3s)
+[KAN_L72] ep   5/18 grid=5 train_rmse=0.1143 val_RMSE=0.1267 val_MAE=0.0394 val_CORR=0.4551 NSEmed=0.218 (3s)
+[KAN_L72] ep   6/18 grid=5 train_rmse=0.1111 val_RMSE=0.1235 val_MAE=0.0359 val_CORR=0.4823 NSEmed=0.290 (3s)
+[KAN_L72] ep   7/18 grid=10 train_rmse=0.1092 val_RMSE=0.1221 val_MAE=0.0310 val_CORR=0.4941 NSEmed=0.353 (3s)
+[KAN_L72] ep   8/18 grid=10 train_rmse=0.1073 val_RMSE=0.1206 val_MAE=0.0323 val_CORR=0.5062 NSEmed=0.339 (3s)
+[KAN_L72] ep   9/18 grid=10 train_rmse=0.1059 val_RMSE=0.1207 val_MAE=0.0341 val_CORR=0.5054 NSEmed=0.282 (3s)
+[KAN_L72] ep  10/18 grid=20 train_rmse=0.1057 val_RMSE=0.1215 val_MAE=0.0309 val_CORR=0.4990 NSEmed=0.336 (3s)
+[KAN_L72] ep  11/18 grid=20 train_rmse=0.1040 val_RMSE=0.1209 val_MAE=0.0297 val_CORR=0.5039 NSEmed=0.384 (3s)
+[KAN_L72] ep  12/18 grid=20 train_rmse=0.1027 val_RMSE=0.1220 val_MAE=0.0328 val_CORR=0.4946 NSEmed=0.269 (3s)
+[KAN_L72] ep  13/18 grid=50 train_rmse=0.1043 val_RMSE=0.1249 val_MAE=0.0340 val_CORR=0.4700 NSEmed=0.233 (5s)
+[KAN_L72] ep  14/18 grid=50 train_rmse=0.1027 val_RMSE=0.1252 val_MAE=0.0345 val_CORR=0.4675 NSEmed=0.225 (5s)
+[KAN_L72] ep  15/18 grid=50 train_rmse=0.1013 val_RMSE=0.1252 val_MAE=0.0354 val_CORR=0.4675 NSEmed=0.205 (5s)
+[KAN_L72] ep  16/18 grid=100 train_rmse=0.1018 val_RMSE=0.1268 val_MAE=0.0362 val_CORR=0.4540 NSEmed=0.185 (10s)
+[KAN_L72] ep  17/18 grid=100 train_rmse=0.1005 val_RMSE=0.1273 val_MAE=0.0370 val_CORR=0.4497 NSEmed=0.150 (9s)
+[KAN_L72] ep  18/18 grid=100 train_rmse=0.0995 val_RMSE=0.1275 val_MAE=0.0381 val_CORR=0.4481 NSEmed=0.107 (9s)
+==> KAN_L72: val RMSE 0.1206 CORR 0.5062 | test RMSE 0.1100 (88s)
+[RKAN_L72] ep   1/18 grid=3 train_rmse=0.1201 val_RMSE=0.1191 val_MAE=0.0377 val_CORR=0.5180 NSEmed=0.292 (19s)
+[RKAN_L72] ep   2/18 grid=3 train_rmse=0.1098 val_RMSE=0.1156 val_MAE=0.0321 val_CORR=0.5464 NSEmed=0.334 (19s)
+[RKAN_L72] ep   3/18 grid=3 train_rmse=0.1074 val_RMSE=0.1098 val_MAE=0.0274 val_CORR=0.5905 NSEmed=0.454 (19s)
+[RKAN_L72] ep   4/18 grid=5 train_rmse=0.1052 val_RMSE=0.1058 val_MAE=0.0254 val_CORR=0.6196 NSEmed=0.479 (18s)
+[RKAN_L72] ep   5/18 grid=5 train_rmse=0.1036 val_RMSE=0.1067 val_MAE=0.0276 val_CORR=0.6132 NSEmed=0.424 (19s)
+[RKAN_L72] ep   6/18 grid=5 train_rmse=0.1026 val_RMSE=0.1064 val_MAE=0.0276 val_CORR=0.6153 NSEmed=0.436 (19s)
+[RKAN_L72] ep   7/18 grid=10 train_rmse=0.1025 val_RMSE=0.1048 val_MAE=0.0257 val_CORR=0.6268 NSEmed=0.531 (19s)
+[RKAN_L72] ep   8/18 grid=10 train_rmse=0.1015 val_RMSE=0.1054 val_MAE=0.0280 val_CORR=0.6226 NSEmed=0.455 (19s)
+[RKAN_L72] ep   9/18 grid=10 train_rmse=0.1009 val_RMSE=0.1054 val_MAE=0.0250 val_CORR=0.6228 NSEmed=0.540 (19s)
+[RKAN_L72] ep  10/18 grid=20 train_rmse=0.1012 val_RMSE=0.1063 val_MAE=0.0261 val_CORR=0.6165 NSEmed=0.482 (21s)
+[RKAN_L72] ep  11/18 grid=20 train_rmse=0.1005 val_RMSE=0.1052 val_MAE=0.0246 val_CORR=0.6241 NSEmed=0.536 (22s)
+[RKAN_L72] ep  12/18 grid=20 train_rmse=0.1000 val_RMSE=0.1053 val_MAE=0.0260 val_CORR=0.6235 NSEmed=0.496 (23s)
+[RKAN_L72] ep  13/18 grid=50 train_rmse=0.1001 val_RMSE=0.1057 val_MAE=0.0260 val_CORR=0.6208 NSEmed=0.504 (34s)
+[RKAN_L72] ep  14/18 grid=50 train_rmse=0.0995 val_RMSE=0.1052 val_MAE=0.0264 val_CORR=0.6242 NSEmed=0.480 (35s)
+[RKAN_L72] ep  15/18 grid=50 train_rmse=0.0991 val_RMSE=0.1053 val_MAE=0.0269 val_CORR=0.6232 NSEmed=0.477 (33s)
+[RKAN_L72] ep  16/18 grid=100 train_rmse=0.0991 val_RMSE=0.1057 val_MAE=0.0265 val_CORR=0.6203 NSEmed=0.481 (56s)
+[RKAN_L72] ep  17/18 grid=100 train_rmse=0.0987 val_RMSE=0.1058 val_MAE=0.0268 val_CORR=0.6196 NSEmed=0.467 (55s)
+[RKAN_L72] ep  18/18 grid=100 train_rmse=0.0984 val_RMSE=0.1059 val_MAE=0.0275 val_CORR=0.6192 NSEmed=0.452 (55s)
+==> RKAN_L72: val RMSE 0.1048 CORR 0.6268 | test RMSE 0.1033 (663s)
+[FKAN_L72] ep   1/18 grid=3 train_rmse=0.1278 val_RMSE=0.1376 val_MAE=0.0455 val_CORR=0.3571 NSEmed=0.110 (3s)
+[FKAN_L72] ep   2/18 grid=3 train_rmse=0.1261 val_RMSE=0.1390 val_MAE=0.0408 val_CORR=0.3440 NSEmed=0.158 (3s)
+[FKAN_L72] ep   3/18 grid=3 train_rmse=0.1254 val_RMSE=0.1360 val_MAE=0.0311 val_CORR=0.3719 NSEmed=0.377 (2s)
+[FKAN_L72] ep   4/18 grid=5 train_rmse=0.1254 val_RMSE=0.1370 val_MAE=0.0303 val_CORR=0.3627 NSEmed=0.385 (3s)
+[FKAN_L72] ep   5/18 grid=5 train_rmse=0.1253 val_RMSE=0.1360 val_MAE=0.0289 val_CORR=0.3716 NSEmed=0.405 (3s)
+[FKAN_L72] ep   6/18 grid=5 train_rmse=0.1255 val_RMSE=0.1365 val_MAE=0.0292 val_CORR=0.3675 NSEmed=0.380 (2s)
+[FKAN_L72] ep   7/18 grid=10 train_rmse=0.1249 val_RMSE=0.1357 val_MAE=0.0295 val_CORR=0.3743 NSEmed=0.405 (2s)
+[FKAN_L72] ep   8/18 grid=10 train_rmse=0.1257 val_RMSE=0.1479 val_MAE=0.0534 val_CORR=0.2566 NSEmed=-0.302 (2s)
+[FKAN_L72] ep   9/18 grid=10 train_rmse=0.1268 val_RMSE=0.1363 val_MAE=0.0279 val_CORR=0.3694 NSEmed=0.416 (2s)
+[FKAN_L72] ep  10/18 grid=20 train_rmse=0.1250 val_RMSE=0.1366 val_MAE=0.0286 val_CORR=0.3662 NSEmed=0.413 (2s)
+[FKAN_L72] ep  11/18 grid=20 train_rmse=0.1248 val_RMSE=0.1506 val_MAE=0.0556 val_CORR=0.2302 NSEmed=-0.598 (2s)
+[FKAN_L72] ep  12/18 grid=20 train_rmse=0.1249 val_RMSE=0.1369 val_MAE=0.0305 val_CORR=0.3637 NSEmed=0.366 (2s)
+[FKAN_L72] ep  13/18 grid=50 train_rmse=0.1243 val_RMSE=0.1366 val_MAE=0.0313 val_CORR=0.3666 NSEmed=0.291 (2s)
+[FKAN_L72] ep  14/18 grid=50 train_rmse=0.1240 val_RMSE=0.1357 val_MAE=0.0302 val_CORR=0.3748 NSEmed=0.352 (2s)
+[FKAN_L72] ep  15/18 grid=50 train_rmse=0.1243 val_RMSE=0.1362 val_MAE=0.0293 val_CORR=0.3697 NSEmed=0.359 (2s)
+[FKAN_L72] ep  16/18 grid=100 train_rmse=0.1240 val_RMSE=0.1442 val_MAE=0.0435 val_CORR=0.2941 NSEmed=-0.050 (4s)
+[FKAN_L72] ep  17/18 grid=100 train_rmse=0.1242 val_RMSE=0.1350 val_MAE=0.0280 val_CORR=0.3812 NSEmed=0.416 (4s)
+[FKAN_L72] ep  18/18 grid=100 train_rmse=0.1243 val_RMSE=0.1354 val_MAE=0.0296 val_CORR=0.3774 NSEmed=0.369 (4s)
+==> FKAN_L72: val RMSE 0.1350 CORR 0.3812 | test RMSE 0.1172 (49s)
+[RFKAN_L72] ep   1/18 grid=3 train_rmse=0.1201 val_RMSE=0.1249 val_MAE=0.0456 val_CORR=0.4705 NSEmed=0.149 (25s)
+[RFKAN_L72] ep   2/18 grid=3 train_rmse=0.1123 val_RMSE=0.1174 val_MAE=0.0319 val_CORR=0.5316 NSEmed=0.372 (22s)
+[RFKAN_L72] ep   3/18 grid=3 train_rmse=0.1097 val_RMSE=0.1146 val_MAE=0.0324 val_CORR=0.5539 NSEmed=0.373 (22s)
+[RFKAN_L72] ep   4/18 grid=5 train_rmse=0.1081 val_RMSE=0.1124 val_MAE=0.0299 val_CORR=0.5707 NSEmed=0.439 (25s)
+[RFKAN_L72] ep   5/18 grid=5 train_rmse=0.1068 val_RMSE=0.1108 val_MAE=0.0303 val_CORR=0.5832 NSEmed=0.376 (25s)
+[RFKAN_L72] ep   6/18 grid=5 train_rmse=0.1061 val_RMSE=0.1121 val_MAE=0.0299 val_CORR=0.5736 NSEmed=0.381 (26s)
+[RFKAN_L72] ep   7/18 grid=10 train_rmse=0.1052 val_RMSE=0.1098 val_MAE=0.0287 val_CORR=0.5903 NSEmed=0.437 (24s)
+[RFKAN_L72] ep   8/18 grid=10 train_rmse=0.1047 val_RMSE=0.1119 val_MAE=0.0413 val_CORR=0.5750 NSEmed=0.189 (26s)
+[RFKAN_L72] ep   9/18 grid=10 train_rmse=0.1041 val_RMSE=0.1086 val_MAE=0.0310 val_CORR=0.5992 NSEmed=0.377 (19s)
+[RFKAN_L72] ep  10/18 grid=20 train_rmse=0.1035 val_RMSE=0.1087 val_MAE=0.0328 val_CORR=0.5986 NSEmed=0.359 (16s)
+[RFKAN_L72] ep  11/18 grid=20 train_rmse=0.1029 val_RMSE=0.1076 val_MAE=0.0268 val_CORR=0.6065 NSEmed=0.492 (17s)
+[RFKAN_L72] ep  12/18 grid=20 train_rmse=0.1026 val_RMSE=0.1094 val_MAE=0.0323 val_CORR=0.5933 NSEmed=0.365 (17s)
+[RFKAN_L72] ep  13/18 grid=50 train_rmse=0.1023 val_RMSE=0.1086 val_MAE=0.0296 val_CORR=0.5994 NSEmed=0.432 (18s)
+[RFKAN_L72] ep  14/18 grid=50 train_rmse=0.1018 val_RMSE=0.1088 val_MAE=0.0333 val_CORR=0.5977 NSEmed=0.309 (20s)
+[RFKAN_L72] ep  15/18 grid=50 train_rmse=0.1017 val_RMSE=0.1096 val_MAE=0.0319 val_CORR=0.5919 NSEmed=0.361 (19s)
+[RFKAN_L72] ep  16/18 grid=100 train_rmse=0.1013 val_RMSE=0.1108 val_MAE=0.0328 val_CORR=0.5829 NSEmed=0.359 (22s)
+[RFKAN_L72] ep  17/18 grid=100 train_rmse=0.1009 val_RMSE=0.1111 val_MAE=0.0326 val_CORR=0.5810 NSEmed=0.339 (24s)
+[RFKAN_L72] ep  18/18 grid=100 train_rmse=0.1007 val_RMSE=0.1108 val_MAE=0.0331 val_CORR=0.5829 NSEmed=0.360 (24s)
+==> RFKAN_L72: val RMSE 0.1076 CORR 0.6065 | test RMSE 0.1052 (392s)
+[KAN_L2] ep   1/18 grid=3 train_rmse=0.1256 val_RMSE=0.1355 val_MAE=0.0304 val_CORR=0.3765 NSEmed=0.397 (3s)
+[KAN_L2] ep   2/18 grid=3 train_rmse=0.1221 val_RMSE=0.1280 val_MAE=0.0304 val_CORR=0.4439 NSEmed=0.410 (3s)
+[KAN_L2] ep   3/18 grid=3 train_rmse=0.1170 val_RMSE=0.1233 val_MAE=0.0362 val_CORR=0.4836 NSEmed=0.323 (3s)
+[KAN_L2] ep   4/18 grid=5 train_rmse=0.1107 val_RMSE=0.1145 val_MAE=0.0268 val_CORR=0.5544 NSEmed=0.479 (4s)
+[KAN_L2] ep   5/18 grid=5 train_rmse=0.1074 val_RMSE=0.1124 val_MAE=0.0271 val_CORR=0.5706 NSEmed=0.459 (4s)
+[KAN_L2] ep   6/18 grid=5 train_rmse=0.1060 val_RMSE=0.1109 val_MAE=0.0264 val_CORR=0.5825 NSEmed=0.463 (4s)
+[KAN_L2] ep   7/18 grid=10 train_rmse=0.1059 val_RMSE=0.1138 val_MAE=0.0283 val_CORR=0.5603 NSEmed=0.470 (3s)
+[KAN_L2] ep   8/18 grid=10 train_rmse=0.1050 val_RMSE=0.1140 val_MAE=0.0288 val_CORR=0.5588 NSEmed=0.458 (3s)
+[KAN_L2] ep   9/18 grid=10 train_rmse=0.1043 val_RMSE=0.1154 val_MAE=0.0284 val_CORR=0.5477 NSEmed=0.464 (3s)
+[KAN_L2] ep  10/18 grid=20 train_rmse=0.1063 val_RMSE=0.1160 val_MAE=0.0284 val_CORR=0.5431 NSEmed=0.433 (3s)
+[KAN_L2] ep  11/18 grid=20 train_rmse=0.1055 val_RMSE=0.1158 val_MAE=0.0267 val_CORR=0.5444 NSEmed=0.461 (3s)
+[KAN_L2] ep  12/18 grid=20 train_rmse=0.1050 val_RMSE=0.1156 val_MAE=0.0277 val_CORR=0.5463 NSEmed=0.445 (3s)
+[KAN_L2] ep  13/18 grid=50 train_rmse=0.1075 val_RMSE=0.1195 val_MAE=0.0282 val_CORR=0.5151 NSEmed=0.451 (4s)
+[KAN_L2] ep  14/18 grid=50 train_rmse=0.1066 val_RMSE=0.1189 val_MAE=0.0282 val_CORR=0.5196 NSEmed=0.441 (4s)
+[KAN_L2] ep  15/18 grid=50 train_rmse=0.1058 val_RMSE=0.1192 val_MAE=0.0295 val_CORR=0.5177 NSEmed=0.425 (4s)
+[KAN_L2] ep  16/18 grid=100 train_rmse=0.1076 val_RMSE=0.1225 val_MAE=0.0282 val_CORR=0.4905 NSEmed=0.451 (4s)
+[KAN_L2] ep  17/18 grid=100 train_rmse=0.1068 val_RMSE=0.1225 val_MAE=0.0285 val_CORR=0.4901 NSEmed=0.446 (4s)
+[KAN_L2] ep  18/18 grid=100 train_rmse=0.1064 val_RMSE=0.1222 val_MAE=0.0290 val_CORR=0.4932 NSEmed=0.432 (4s)
+==> KAN_L2: val RMSE 0.1109 CORR 0.5825 | test RMSE 0.1045 (64s)
+[RKAN_L2] ep   1/18 grid=3 train_rmse=0.1196 val_RMSE=0.1126 val_MAE=0.0282 val_CORR=0.5694 NSEmed=0.453 (6s)
+[RKAN_L2] ep   2/18 grid=3 train_rmse=0.1074 val_RMSE=0.1111 val_MAE=0.0266 val_CORR=0.5811 NSEmed=0.450 (5s)
+[RKAN_L2] ep   3/18 grid=3 train_rmse=0.1069 val_RMSE=0.1099 val_MAE=0.0267 val_CORR=0.5896 NSEmed=0.455 (5s)
+[RKAN_L2] ep   4/18 grid=5 train_rmse=0.1054 val_RMSE=0.1079 val_MAE=0.0242 val_CORR=0.6048 NSEmed=0.531 (5s)
+[RKAN_L2] ep   5/18 grid=5 train_rmse=0.1041 val_RMSE=0.1100 val_MAE=0.0295 val_CORR=0.5892 NSEmed=0.404 (4s)
+[RKAN_L2] ep   6/18 grid=5 train_rmse=0.1034 val_RMSE=0.1075 val_MAE=0.0283 val_CORR=0.6078 NSEmed=0.433 (4s)
+[RKAN_L2] ep   7/18 grid=10 train_rmse=0.1029 val_RMSE=0.1060 val_MAE=0.0244 val_CORR=0.6188 NSEmed=0.518 (5s)
+[RKAN_L2] ep   8/18 grid=10 train_rmse=0.1023 val_RMSE=0.1065 val_MAE=0.0269 val_CORR=0.6146 NSEmed=0.461 (5s)
+[RKAN_L2] ep   9/18 grid=10 train_rmse=0.1019 val_RMSE=0.1088 val_MAE=0.0256 val_CORR=0.5978 NSEmed=0.506 (5s)
+[RKAN_L2] ep  10/18 grid=20 train_rmse=0.1021 val_RMSE=0.1078 val_MAE=0.0262 val_CORR=0.6056 NSEmed=0.476 (4s)
+[RKAN_L2] ep  11/18 grid=20 train_rmse=0.1015 val_RMSE=0.1097 val_MAE=0.0260 val_CORR=0.5916 NSEmed=0.479 (4s)
+[RKAN_L2] ep  12/18 grid=20 train_rmse=0.1011 val_RMSE=0.1085 val_MAE=0.0273 val_CORR=0.6003 NSEmed=0.452 (4s)
+[RKAN_L2] ep  13/18 grid=50 train_rmse=0.1011 val_RMSE=0.1088 val_MAE=0.0271 val_CORR=0.5983 NSEmed=0.458 (4s)
+[RKAN_L2] ep  14/18 grid=50 train_rmse=0.1006 val_RMSE=0.1085 val_MAE=0.0272 val_CORR=0.6005 NSEmed=0.456 (4s)
+[RKAN_L2] ep  15/18 grid=50 train_rmse=0.1003 val_RMSE=0.1083 val_MAE=0.0273 val_CORR=0.6014 NSEmed=0.465 (4s)
+[RKAN_L2] ep  16/18 grid=100 train_rmse=0.1004 val_RMSE=0.1092 val_MAE=0.0269 val_CORR=0.5953 NSEmed=0.464 (5s)
+[RKAN_L2] ep  17/18 grid=100 train_rmse=0.1001 val_RMSE=0.1094 val_MAE=0.0273 val_CORR=0.5936 NSEmed=0.459 (4s)
+[RKAN_L2] ep  18/18 grid=100 train_rmse=0.0998 val_RMSE=0.1092 val_MAE=0.0279 val_CORR=0.5953 NSEmed=0.449 (4s)
+==> RKAN_L2: val RMSE 0.1060 CORR 0.6188 | test RMSE 0.1047 (85s)
+[FKAN_L2] ep   1/18 grid=3 train_rmse=0.1216 val_RMSE=0.1241 val_MAE=0.0312 val_CORR=0.4767 NSEmed=0.414 (2s)
+[FKAN_L2] ep   2/18 grid=3 train_rmse=0.1150 val_RMSE=0.1196 val_MAE=0.0296 val_CORR=0.5143 NSEmed=0.435 (2s)
+[FKAN_L2] ep   3/18 grid=3 train_rmse=0.1120 val_RMSE=0.1172 val_MAE=0.0312 val_CORR=0.5335 NSEmed=0.477 (3s)
+[FKAN_L2] ep   4/18 grid=5 train_rmse=0.1095 val_RMSE=0.1157 val_MAE=0.0295 val_CORR=0.5456 NSEmed=0.448 (2s)
+[FKAN_L2] ep   5/18 grid=5 train_rmse=0.1086 val_RMSE=0.1143 val_MAE=0.0295 val_CORR=0.5564 NSEmed=0.419 (2s)
+[FKAN_L2] ep   6/18 grid=5 train_rmse=0.1080 val_RMSE=0.1134 val_MAE=0.0286 val_CORR=0.5634 NSEmed=0.440 (3s)
+[FKAN_L2] ep   7/18 grid=10 train_rmse=0.1076 val_RMSE=0.1126 val_MAE=0.0269 val_CORR=0.5697 NSEmed=0.511 (2s)
+[FKAN_L2] ep   8/18 grid=10 train_rmse=0.1072 val_RMSE=0.1128 val_MAE=0.0319 val_CORR=0.5681 NSEmed=0.408 (2s)
+[FKAN_L2] ep   9/18 grid=10 train_rmse=0.1068 val_RMSE=0.1135 val_MAE=0.0279 val_CORR=0.5624 NSEmed=0.505 (2s)
+[FKAN_L2] ep  10/18 grid=20 train_rmse=0.1063 val_RMSE=0.1137 val_MAE=0.0288 val_CORR=0.5612 NSEmed=0.460 (2s)
+[FKAN_L2] ep  11/18 grid=20 train_rmse=0.1057 val_RMSE=0.1121 val_MAE=0.0256 val_CORR=0.5731 NSEmed=0.512 (2s)
+[FKAN_L2] ep  12/18 grid=20 train_rmse=0.1053 val_RMSE=0.1122 val_MAE=0.0268 val_CORR=0.5723 NSEmed=0.503 (2s)
+[FKAN_L2] ep  13/18 grid=50 train_rmse=0.1048 val_RMSE=0.1124 val_MAE=0.0278 val_CORR=0.5707 NSEmed=0.478 (2s)
+[FKAN_L2] ep  14/18 grid=50 train_rmse=0.1044 val_RMSE=0.1140 val_MAE=0.0330 val_CORR=0.5590 NSEmed=0.352 (2s)
+[FKAN_L2] ep  15/18 grid=50 train_rmse=0.1041 val_RMSE=0.1127 val_MAE=0.0327 val_CORR=0.5684 NSEmed=0.373 (2s)
+[FKAN_L2] ep  16/18 grid=100 train_rmse=0.1038 val_RMSE=0.1115 val_MAE=0.0283 val_CORR=0.5775 NSEmed=0.466 (2s)
+[FKAN_L2] ep  17/18 grid=100 train_rmse=0.1035 val_RMSE=0.1131 val_MAE=0.0326 val_CORR=0.5652 NSEmed=0.391 (2s)
+[FKAN_L2] ep  18/18 grid=100 train_rmse=0.1034 val_RMSE=0.1123 val_MAE=0.0293 val_CORR=0.5714 NSEmed=0.446 (2s)
+==> FKAN_L2: val RMSE 0.1115 CORR 0.5775 | test RMSE 0.1059 (39s)
+[RFKAN_L2] ep   1/18 grid=3 train_rmse=0.1211 val_RMSE=0.1240 val_MAE=0.0416 val_CORR=0.4779 NSEmed=0.264 (3s)
+[RFKAN_L2] ep   2/18 grid=3 train_rmse=0.1124 val_RMSE=0.1174 val_MAE=0.0333 val_CORR=0.5320 NSEmed=0.352 (3s)
+[RFKAN_L2] ep   3/18 grid=3 train_rmse=0.1099 val_RMSE=0.1171 val_MAE=0.0366 val_CORR=0.5346 NSEmed=0.296 (3s)
+[RFKAN_L2] ep   4/18 grid=5 train_rmse=0.1084 val_RMSE=0.1113 val_MAE=0.0255 val_CORR=0.5792 NSEmed=0.519 (3s)
+[RFKAN_L2] ep   5/18 grid=5 train_rmse=0.1074 val_RMSE=0.1118 val_MAE=0.0282 val_CORR=0.5752 NSEmed=0.443 (3s)
+[RFKAN_L2] ep   6/18 grid=5 train_rmse=0.1066 val_RMSE=0.1114 val_MAE=0.0270 val_CORR=0.5787 NSEmed=0.461 (3s)
+[RFKAN_L2] ep   7/18 grid=10 train_rmse=0.1058 val_RMSE=0.1102 val_MAE=0.0287 val_CORR=0.5879 NSEmed=0.471 (3s)
+[RFKAN_L2] ep   8/18 grid=10 train_rmse=0.1053 val_RMSE=0.1111 val_MAE=0.0354 val_CORR=0.5809 NSEmed=0.289 (4s)
+[RFKAN_L2] ep   9/18 grid=10 train_rmse=0.1048 val_RMSE=0.1091 val_MAE=0.0292 val_CORR=0.5957 NSEmed=0.442 (4s)
+[RFKAN_L2] ep  10/18 grid=20 train_rmse=0.1041 val_RMSE=0.1095 val_MAE=0.0272 val_CORR=0.5928 NSEmed=0.470 (4s)
+[RFKAN_L2] ep  11/18 grid=20 train_rmse=0.1038 val_RMSE=0.1091 val_MAE=0.0282 val_CORR=0.5954 NSEmed=0.485 (4s)
+[RFKAN_L2] ep  12/18 grid=20 train_rmse=0.1034 val_RMSE=0.1100 val_MAE=0.0282 val_CORR=0.5890 NSEmed=0.467 (4s)
+[RFKAN_L2] ep  13/18 grid=50 train_rmse=0.1030 val_RMSE=0.1113 val_MAE=0.0304 val_CORR=0.5792 NSEmed=0.416 (3s)
+[RFKAN_L2] ep  14/18 grid=50 train_rmse=0.1024 val_RMSE=0.1091 val_MAE=0.0304 val_CORR=0.5955 NSEmed=0.412 (3s)
+[RFKAN_L2] ep  15/18 grid=50 train_rmse=0.1023 val_RMSE=0.1099 val_MAE=0.0320 val_CORR=0.5896 NSEmed=0.389 (4s)
+[RFKAN_L2] ep  16/18 grid=100 train_rmse=0.1018 val_RMSE=0.1114 val_MAE=0.0308 val_CORR=0.5783 NSEmed=0.408 (3s)
+[RFKAN_L2] ep  17/18 grid=100 train_rmse=0.1016 val_RMSE=0.1123 val_MAE=0.0322 val_CORR=0.5716 NSEmed=0.396 (3s)
+[RFKAN_L2] ep  18/18 grid=100 train_rmse=0.1015 val_RMSE=0.1124 val_MAE=0.0339 val_CORR=0.5707 NSEmed=0.335 (3s)
+==> RFKAN_L2: val RMSE 0.1091 CORR 0.5957 | test RMSE 0.1059 (63s)
+[KAN_L12] ep   1/18 grid=3 train_rmse=0.1240 val_RMSE=0.1294 val_MAE=0.0349 val_CORR=0.4311 NSEmed=0.300 (3s)
+[KAN_L12] ep   2/18 grid=3 train_rmse=0.1164 val_RMSE=0.1225 val_MAE=0.0296 val_CORR=0.4901 NSEmed=0.353 (3s)
+[KAN_L12] ep   3/18 grid=3 train_rmse=0.1127 val_RMSE=0.1202 val_MAE=0.0354 val_CORR=0.5090 NSEmed=0.288 (3s)
+[KAN_L12] ep   4/18 grid=5 train_rmse=0.1086 val_RMSE=0.1132 val_MAE=0.0260 val_CORR=0.5646 NSEmed=0.476 (3s)
+[KAN_L12] ep   5/18 grid=5 train_rmse=0.1058 val_RMSE=0.1123 val_MAE=0.0290 val_CORR=0.5717 NSEmed=0.412 (3s)
+[KAN_L12] ep   6/18 grid=5 train_rmse=0.1045 val_RMSE=0.1104 val_MAE=0.0274 val_CORR=0.5860 NSEmed=0.434 (3s)
+[KAN_L12] ep   7/18 grid=10 train_rmse=0.1042 val_RMSE=0.1114 val_MAE=0.0256 val_CORR=0.5783 NSEmed=0.487 (3s)
+[KAN_L12] ep   8/18 grid=10 train_rmse=0.1030 val_RMSE=0.1114 val_MAE=0.0279 val_CORR=0.5785 NSEmed=0.407 (3s)
+[KAN_L12] ep   9/18 grid=10 train_rmse=0.1020 val_RMSE=0.1125 val_MAE=0.0289 val_CORR=0.5700 NSEmed=0.365 (3s)
+[KAN_L12] ep  10/18 grid=20 train_rmse=0.1031 val_RMSE=0.1147 val_MAE=0.0287 val_CORR=0.5533 NSEmed=0.399 (3s)
+[KAN_L12] ep  11/18 grid=20 train_rmse=0.1021 val_RMSE=0.1153 val_MAE=0.0278 val_CORR=0.5486 NSEmed=0.396 (3s)
+[KAN_L12] ep  12/18 grid=20 train_rmse=0.1013 val_RMSE=0.1140 val_MAE=0.0275 val_CORR=0.5590 NSEmed=0.425 (3s)
+[KAN_L12] ep  13/18 grid=50 train_rmse=0.1024 val_RMSE=0.1159 val_MAE=0.0267 val_CORR=0.5439 NSEmed=0.457 (3s)
+[KAN_L12] ep  14/18 grid=50 train_rmse=0.1013 val_RMSE=0.1160 val_MAE=0.0275 val_CORR=0.5432 NSEmed=0.447 (3s)
+[KAN_L12] ep  15/18 grid=50 train_rmse=0.1006 val_RMSE=0.1157 val_MAE=0.0282 val_CORR=0.5452 NSEmed=0.422 (3s)
+[KAN_L12] ep  16/18 grid=100 train_rmse=0.1008 val_RMSE=0.1157 val_MAE=0.0278 val_CORR=0.5451 NSEmed=0.425 (3s)
+[KAN_L12] ep  17/18 grid=100 train_rmse=0.1000 val_RMSE=0.1158 val_MAE=0.0284 val_CORR=0.5447 NSEmed=0.417 (3s)
+[KAN_L12] ep  18/18 grid=100 train_rmse=0.0993 val_RMSE=0.1159 val_MAE=0.0289 val_CORR=0.5441 NSEmed=0.401 (3s)
+==> KAN_L12: val RMSE 0.1104 CORR 0.5860 | test RMSE 0.1092 (55s)
+[RKAN_L12] ep   1/18 grid=3 train_rmse=0.1210 val_RMSE=0.1250 val_MAE=0.0310 val_CORR=0.4693 NSEmed=0.362 (7s)
+[RKAN_L12] ep   2/18 grid=3 train_rmse=0.1117 val_RMSE=0.1152 val_MAE=0.0306 val_CORR=0.5496 NSEmed=0.384 (6s)
+[RKAN_L12] ep   3/18 grid=3 train_rmse=0.1085 val_RMSE=0.1117 val_MAE=0.0275 val_CORR=0.5764 NSEmed=0.425 (7s)
+[RKAN_L12] ep   4/18 grid=5 train_rmse=0.1062 val_RMSE=0.1072 val_MAE=0.0252 val_CORR=0.6097 NSEmed=0.527 (7s)
+[RKAN_L12] ep   5/18 grid=5 train_rmse=0.1042 val_RMSE=0.1074 val_MAE=0.0293 val_CORR=0.6082 NSEmed=0.381 (7s)
+[RKAN_L12] ep   6/18 grid=5 train_rmse=0.1032 val_RMSE=0.1091 val_MAE=0.0303 val_CORR=0.5957 NSEmed=0.395 (7s)
+[RKAN_L12] ep   7/18 grid=10 train_rmse=0.1034 val_RMSE=0.1065 val_MAE=0.0257 val_CORR=0.6149 NSEmed=0.476 (7s)
+[RKAN_L12] ep   8/18 grid=10 train_rmse=0.1022 val_RMSE=0.1070 val_MAE=0.0277 val_CORR=0.6113 NSEmed=0.436 (6s)
+[RKAN_L12] ep   9/18 grid=10 train_rmse=0.1016 val_RMSE=0.1096 val_MAE=0.0297 val_CORR=0.5924 NSEmed=0.387 (6s)
+[RKAN_L12] ep  10/18 grid=20 train_rmse=0.1018 val_RMSE=0.1085 val_MAE=0.0282 val_CORR=0.6002 NSEmed=0.430 (9s)
+[RKAN_L12] ep  11/18 grid=20 train_rmse=0.1010 val_RMSE=0.1084 val_MAE=0.0267 val_CORR=0.6011 NSEmed=0.465 (11s)
+[RKAN_L12] ep  12/18 grid=20 train_rmse=0.1005 val_RMSE=0.1077 val_MAE=0.0277 val_CORR=0.6062 NSEmed=0.439 (7s)
+[RKAN_L12] ep  13/18 grid=50 train_rmse=0.1019 val_RMSE=0.1110 val_MAE=0.0286 val_CORR=0.5818 NSEmed=0.417 (8s)
+[RKAN_L12] ep  14/18 grid=50 train_rmse=0.1011 val_RMSE=0.1107 val_MAE=0.0296 val_CORR=0.5836 NSEmed=0.395 (8s)
+[RKAN_L12] ep  15/18 grid=50 train_rmse=0.1007 val_RMSE=0.1099 val_MAE=0.0292 val_CORR=0.5895 NSEmed=0.408 (7s)
+[RKAN_L12] ep  16/18 grid=100 train_rmse=0.1006 val_RMSE=0.1107 val_MAE=0.0289 val_CORR=0.5839 NSEmed=0.406 (10s)
+[RKAN_L12] ep  17/18 grid=100 train_rmse=0.1002 val_RMSE=0.1115 val_MAE=0.0299 val_CORR=0.5781 NSEmed=0.390 (12s)
+[RKAN_L12] ep  18/18 grid=100 train_rmse=0.0998 val_RMSE=0.1111 val_MAE=0.0302 val_CORR=0.5812 NSEmed=0.374 (11s)
+==> RKAN_L12: val RMSE 0.1065 CORR 0.6149 | test RMSE 0.1037 (146s)
+[FKAN_L12] ep   1/18 grid=3 train_rmse=0.1218 val_RMSE=0.1293 val_MAE=0.0320 val_CORR=0.4318 NSEmed=0.389 (2s)
+[FKAN_L12] ep   2/18 grid=3 train_rmse=0.1178 val_RMSE=0.1288 val_MAE=0.0383 val_CORR=0.4367 NSEmed=0.310 (2s)
+[FKAN_L12] ep   3/18 grid=3 train_rmse=0.1169 val_RMSE=0.1290 val_MAE=0.0431 val_CORR=0.4348 NSEmed=0.149 (2s)
+[FKAN_L12] ep   4/18 grid=5 train_rmse=0.1161 val_RMSE=0.1272 val_MAE=0.0315 val_CORR=0.4502 NSEmed=0.398 (2s)
+[FKAN_L12] ep   5/18 grid=5 train_rmse=0.1152 val_RMSE=0.1322 val_MAE=0.0403 val_CORR=0.4061 NSEmed=0.147 (2s)
+[FKAN_L12] ep   6/18 grid=5 train_rmse=0.1143 val_RMSE=0.1290 val_MAE=0.0369 val_CORR=0.4349 NSEmed=0.236 (2s)
+[FKAN_L12] ep   7/18 grid=10 train_rmse=0.1140 val_RMSE=0.1254 val_MAE=0.0292 val_CORR=0.4656 NSEmed=0.415 (2s)
+[FKAN_L12] ep   8/18 grid=10 train_rmse=0.1139 val_RMSE=0.1264 val_MAE=0.0341 val_CORR=0.4572 NSEmed=0.299 (2s)
+[FKAN_L12] ep   9/18 grid=10 train_rmse=0.1135 val_RMSE=0.1278 val_MAE=0.0385 val_CORR=0.4456 NSEmed=0.201 (2s)
+[FKAN_L12] ep  10/18 grid=20 train_rmse=0.1123 val_RMSE=0.1263 val_MAE=0.0324 val_CORR=0.4581 NSEmed=0.301 (3s)
+[FKAN_L12] ep  11/18 grid=20 train_rmse=0.1114 val_RMSE=0.1233 val_MAE=0.0322 val_CORR=0.4839 NSEmed=0.361 (2s)
+[FKAN_L12] ep  12/18 grid=20 train_rmse=0.1110 val_RMSE=0.1222 val_MAE=0.0288 val_CORR=0.4925 NSEmed=0.395 (2s)
+[FKAN_L12] ep  13/18 grid=50 train_rmse=0.1103 val_RMSE=0.1219 val_MAE=0.0324 val_CORR=0.4952 NSEmed=0.330 (2s)
+[FKAN_L12] ep  14/18 grid=50 train_rmse=0.1099 val_RMSE=0.1221 val_MAE=0.0321 val_CORR=0.4933 NSEmed=0.344 (2s)
+[FKAN_L12] ep  15/18 grid=50 train_rmse=0.1099 val_RMSE=0.1241 val_MAE=0.0333 val_CORR=0.4769 NSEmed=0.294 (2s)
+[FKAN_L12] ep  16/18 grid=100 train_rmse=0.1095 val_RMSE=0.1207 val_MAE=0.0313 val_CORR=0.5050 NSEmed=0.362 (2s)
+[FKAN_L12] ep  17/18 grid=100 train_rmse=0.1096 val_RMSE=0.1250 val_MAE=0.0425 val_CORR=0.4693 NSEmed=0.181 (2s)
+[FKAN_L12] ep  18/18 grid=100 train_rmse=0.1094 val_RMSE=0.1234 val_MAE=0.0339 val_CORR=0.4825 NSEmed=0.294 (2s)
+==> FKAN_L12: val RMSE 0.1207 CORR 0.5050 | test RMSE 0.1103 (42s)
+[RFKAN_L12] ep   1/18 grid=3 train_rmse=0.1211 val_RMSE=0.1241 val_MAE=0.0417 val_CORR=0.4774 NSEmed=0.198 (8s)
+[RFKAN_L12] ep   2/18 grid=3 train_rmse=0.1121 val_RMSE=0.1187 val_MAE=0.0367 val_CORR=0.5213 NSEmed=0.300 (7s)
+[RFKAN_L12] ep   3/18 grid=3 train_rmse=0.1096 val_RMSE=0.1155 val_MAE=0.0327 val_CORR=0.5468 NSEmed=0.363 (6s)
+[RFKAN_L12] ep   4/18 grid=5 train_rmse=0.1076 val_RMSE=0.1124 val_MAE=0.0294 val_CORR=0.5706 NSEmed=0.417 (7s)
+[RFKAN_L12] ep   5/18 grid=5 train_rmse=0.1063 val_RMSE=0.1127 val_MAE=0.0330 val_CORR=0.5689 NSEmed=0.324 (8s)
+[RFKAN_L12] ep   6/18 grid=5 train_rmse=0.1055 val_RMSE=0.1127 val_MAE=0.0308 val_CORR=0.5688 NSEmed=0.369 (10s)
+[RFKAN_L12] ep   7/18 grid=10 train_rmse=0.1048 val_RMSE=0.1106 val_MAE=0.0315 val_CORR=0.5847 NSEmed=0.366 (7s)
+[RFKAN_L12] ep   8/18 grid=10 train_rmse=0.1042 val_RMSE=0.1128 val_MAE=0.0363 val_CORR=0.5675 NSEmed=0.245 (5s)
+[RFKAN_L12] ep   9/18 grid=10 train_rmse=0.1039 val_RMSE=0.1130 val_MAE=0.0349 val_CORR=0.5665 NSEmed=0.298 (6s)
+[RFKAN_L12] ep  10/18 grid=20 train_rmse=0.1032 val_RMSE=0.1117 val_MAE=0.0344 val_CORR=0.5764 NSEmed=0.336 (5s)
+[RFKAN_L12] ep  11/18 grid=20 train_rmse=0.1027 val_RMSE=0.1124 val_MAE=0.0348 val_CORR=0.5706 NSEmed=0.327 (5s)
+[RFKAN_L12] ep  12/18 grid=20 train_rmse=0.1024 val_RMSE=0.1127 val_MAE=0.0356 val_CORR=0.5688 NSEmed=0.322 (7s)
+[RFKAN_L12] ep  13/18 grid=50 train_rmse=0.1019 val_RMSE=0.1143 val_MAE=0.0375 val_CORR=0.5560 NSEmed=0.295 (8s)
+[RFKAN_L12] ep  14/18 grid=50 train_rmse=0.1013 val_RMSE=0.1120 val_MAE=0.0335 val_CORR=0.5741 NSEmed=0.369 (6s)
+[RFKAN_L12] ep  15/18 grid=50 train_rmse=0.1011 val_RMSE=0.1126 val_MAE=0.0345 val_CORR=0.5693 NSEmed=0.361 (6s)
+[RFKAN_L12] ep  16/18 grid=100 train_rmse=0.1007 val_RMSE=0.1129 val_MAE=0.0363 val_CORR=0.5667 NSEmed=0.286 (5s)
+[RFKAN_L12] ep  17/18 grid=100 train_rmse=0.1004 val_RMSE=0.1141 val_MAE=0.0367 val_CORR=0.5581 NSEmed=0.290 (6s)
+[RFKAN_L12] ep  18/18 grid=100 train_rmse=0.1002 val_RMSE=0.1123 val_MAE=0.0350 val_CORR=0.5720 NSEmed=0.313 (7s)
+==> RFKAN_L12: val RMSE 0.1106 CORR 0.5847 | test RMSE 0.1065 (119s)
+[KAN_L24] ep   1/18 grid=3 train_rmse=0.1242 val_RMSE=0.1305 val_MAE=0.0273 val_CORR=0.4217 NSEmed=0.444 (3s)
+[KAN_L24] ep   2/18 grid=3 train_rmse=0.1181 val_RMSE=0.1260 val_MAE=0.0286 val_CORR=0.4606 NSEmed=0.381 (4s)
+[KAN_L24] ep   3/18 grid=3 train_rmse=0.1150 val_RMSE=0.1229 val_MAE=0.0317 val_CORR=0.4868 NSEmed=0.300 (3s)
+[KAN_L24] ep   4/18 grid=5 train_rmse=0.1124 val_RMSE=0.1197 val_MAE=0.0267 val_CORR=0.5137 NSEmed=0.490 (4s)
+[KAN_L24] ep   5/18 grid=5 train_rmse=0.1088 val_RMSE=0.1186 val_MAE=0.0271 val_CORR=0.5227 NSEmed=0.445 (4s)
+[KAN_L24] ep   6/18 grid=5 train_rmse=0.1071 val_RMSE=0.1156 val_MAE=0.0250 val_CORR=0.5461 NSEmed=0.501 (3s)
+[KAN_L24] ep   7/18 grid=10 train_rmse=0.1056 val_RMSE=0.1139 val_MAE=0.0250 val_CORR=0.5596 NSEmed=0.518 (3s)
+[KAN_L24] ep   8/18 grid=10 train_rmse=0.1043 val_RMSE=0.1135 val_MAE=0.0257 val_CORR=0.5624 NSEmed=0.485 (3s)
+[KAN_L24] ep   9/18 grid=10 train_rmse=0.1032 val_RMSE=0.1134 val_MAE=0.0254 val_CORR=0.5634 NSEmed=0.498 (3s)
+[KAN_L24] ep  10/18 grid=20 train_rmse=0.1035 val_RMSE=0.1146 val_MAE=0.0251 val_CORR=0.5543 NSEmed=0.490 (3s)
+[KAN_L24] ep  11/18 grid=20 train_rmse=0.1024 val_RMSE=0.1155 val_MAE=0.0259 val_CORR=0.5467 NSEmed=0.469 (3s)
+[KAN_L24] ep  12/18 grid=20 train_rmse=0.1014 val_RMSE=0.1149 val_MAE=0.0265 val_CORR=0.5516 NSEmed=0.470 (3s)
+[KAN_L24] ep  13/18 grid=50 train_rmse=0.1022 val_RMSE=0.1170 val_MAE=0.0264 val_CORR=0.5350 NSEmed=0.468 (3s)
+[KAN_L24] ep  14/18 grid=50 train_rmse=0.1012 val_RMSE=0.1169 val_MAE=0.0272 val_CORR=0.5356 NSEmed=0.448 (3s)
+[KAN_L24] ep  15/18 grid=50 train_rmse=0.1002 val_RMSE=0.1168 val_MAE=0.0279 val_CORR=0.5370 NSEmed=0.444 (3s)
+[KAN_L24] ep  16/18 grid=100 train_rmse=0.1003 val_RMSE=0.1168 val_MAE=0.0269 val_CORR=0.5368 NSEmed=0.455 (4s)
+[KAN_L24] ep  17/18 grid=100 train_rmse=0.0994 val_RMSE=0.1168 val_MAE=0.0274 val_CORR=0.5363 NSEmed=0.444 (4s)
+[KAN_L24] ep  18/18 grid=100 train_rmse=0.0986 val_RMSE=0.1168 val_MAE=0.0278 val_CORR=0.5368 NSEmed=0.432 (4s)
+==> KAN_L24: val RMSE 0.1134 CORR 0.5634 | test RMSE 0.1065 (64s)
+[RKAN_L24] ep   1/18 grid=3 train_rmse=0.1200 val_RMSE=0.1307 val_MAE=0.0402 val_CORR=0.4202 NSEmed=-0.036 (10s)
+[RKAN_L24] ep   2/18 grid=3 train_rmse=0.1097 val_RMSE=0.1136 val_MAE=0.0277 val_CORR=0.5621 NSEmed=0.447 (15s)
+[RKAN_L24] ep   3/18 grid=3 train_rmse=0.1071 val_RMSE=0.1094 val_MAE=0.0260 val_CORR=0.5936 NSEmed=0.492 (14s)
+[RKAN_L24] ep   4/18 grid=5 train_rmse=0.1053 val_RMSE=0.1070 val_MAE=0.0259 val_CORR=0.6113 NSEmed=0.489 (10s)
+[RKAN_L24] ep   5/18 grid=5 train_rmse=0.1038 val_RMSE=0.1064 val_MAE=0.0281 val_CORR=0.6156 NSEmed=0.429 (11s)
+[RKAN_L24] ep   6/18 grid=5 train_rmse=0.1029 val_RMSE=0.1080 val_MAE=0.0287 val_CORR=0.6041 NSEmed=0.423 (11s)
+[RKAN_L24] ep   7/18 grid=10 train_rmse=0.1029 val_RMSE=0.1059 val_MAE=0.0251 val_CORR=0.6191 NSEmed=0.507 (11s)
+[RKAN_L24] ep   8/18 grid=10 train_rmse=0.1018 val_RMSE=0.1060 val_MAE=0.0270 val_CORR=0.6183 NSEmed=0.472 (10s)
+[RKAN_L24] ep   9/18 grid=10 train_rmse=0.1011 val_RMSE=0.1072 val_MAE=0.0253 val_CORR=0.6097 NSEmed=0.501 (11s)
+[RKAN_L24] ep  10/18 grid=20 train_rmse=0.1014 val_RMSE=0.1069 val_MAE=0.0262 val_CORR=0.6118 NSEmed=0.484 (10s)
+[RKAN_L24] ep  11/18 grid=20 train_rmse=0.1008 val_RMSE=0.1065 val_MAE=0.0254 val_CORR=0.6150 NSEmed=0.504 (10s)
+[RKAN_L24] ep  12/18 grid=20 train_rmse=0.1002 val_RMSE=0.1061 val_MAE=0.0261 val_CORR=0.6179 NSEmed=0.480 (11s)
+[RKAN_L24] ep  13/18 grid=50 train_rmse=0.1005 val_RMSE=0.1071 val_MAE=0.0263 val_CORR=0.6105 NSEmed=0.482 (13s)
+[RKAN_L24] ep  14/18 grid=50 train_rmse=0.1000 val_RMSE=0.1070 val_MAE=0.0266 val_CORR=0.6110 NSEmed=0.463 (12s)
+[RKAN_L24] ep  15/18 grid=50 train_rmse=0.0996 val_RMSE=0.1066 val_MAE=0.0266 val_CORR=0.6144 NSEmed=0.473 (12s)
+[RKAN_L24] ep  16/18 grid=100 train_rmse=0.0995 val_RMSE=0.1067 val_MAE=0.0262 val_CORR=0.6131 NSEmed=0.469 (18s)
+[RKAN_L24] ep  17/18 grid=100 train_rmse=0.0992 val_RMSE=0.1069 val_MAE=0.0268 val_CORR=0.6121 NSEmed=0.459 (19s)
+[RKAN_L24] ep  18/18 grid=100 train_rmse=0.0988 val_RMSE=0.1069 val_MAE=0.0273 val_CORR=0.6120 NSEmed=0.448 (19s)
+==> RKAN_L24: val RMSE 0.1059 CORR 0.6191 | test RMSE 0.1027 (232s)
+[FKAN_L24] ep   1/18 grid=3 train_rmse=0.1235 val_RMSE=0.1352 val_MAE=0.0491 val_CORR=0.3788 NSEmed=0.081 (3s)
+[FKAN_L24] ep   2/18 grid=3 train_rmse=0.1206 val_RMSE=0.1325 val_MAE=0.0383 val_CORR=0.4041 NSEmed=0.187 (3s)
+[FKAN_L24] ep   3/18 grid=3 train_rmse=0.1198 val_RMSE=0.1330 val_MAE=0.0436 val_CORR=0.3990 NSEmed=0.155 (3s)
+[FKAN_L24] ep   4/18 grid=5 train_rmse=0.1199 val_RMSE=0.1320 val_MAE=0.0373 val_CORR=0.4086 NSEmed=0.235 (3s)
+[FKAN_L24] ep   5/18 grid=5 train_rmse=0.1190 val_RMSE=0.1315 val_MAE=0.0371 val_CORR=0.4125 NSEmed=0.214 (3s)
+[FKAN_L24] ep   6/18 grid=5 train_rmse=0.1182 val_RMSE=0.1346 val_MAE=0.0433 val_CORR=0.3852 NSEmed=0.156 (3s)
+[FKAN_L24] ep   7/18 grid=10 train_rmse=0.1180 val_RMSE=0.1317 val_MAE=0.0359 val_CORR=0.4109 NSEmed=0.216 (3s)
+[FKAN_L24] ep   8/18 grid=10 train_rmse=0.1176 val_RMSE=0.1352 val_MAE=0.0472 val_CORR=0.3792 NSEmed=0.085 (3s)
+[FKAN_L24] ep   9/18 grid=10 train_rmse=0.1173 val_RMSE=0.1306 val_MAE=0.0383 val_CORR=0.4205 NSEmed=0.213 (3s)
+[FKAN_L24] ep  10/18 grid=20 train_rmse=0.1172 val_RMSE=0.1323 val_MAE=0.0385 val_CORR=0.4056 NSEmed=0.214 (4s)
+[FKAN_L24] ep  11/18 grid=20 train_rmse=0.1165 val_RMSE=0.1302 val_MAE=0.0356 val_CORR=0.4247 NSEmed=0.258 (3s)
+[FKAN_L24] ep  12/18 grid=20 train_rmse=0.1160 val_RMSE=0.1271 val_MAE=0.0309 val_CORR=0.4511 NSEmed=0.381 (3s)
+[FKAN_L24] ep  13/18 grid=50 train_rmse=0.1152 val_RMSE=0.1272 val_MAE=0.0339 val_CORR=0.4501 NSEmed=0.296 (3s)
+[FKAN_L24] ep  14/18 grid=50 train_rmse=0.1156 val_RMSE=0.1343 val_MAE=0.0457 val_CORR=0.3873 NSEmed=0.035 (2s)
+[FKAN_L24] ep  15/18 grid=50 train_rmse=0.1154 val_RMSE=0.1299 val_MAE=0.0371 val_CORR=0.4273 NSEmed=0.240 (2s)
+[FKAN_L24] ep  16/18 grid=100 train_rmse=0.1157 val_RMSE=0.1302 val_MAE=0.0360 val_CORR=0.4245 NSEmed=0.241 (3s)
+[FKAN_L24] ep  17/18 grid=100 train_rmse=0.1169 val_RMSE=0.1313 val_MAE=0.0398 val_CORR=0.4147 NSEmed=0.160 (3s)
+[FKAN_L24] ep  18/18 grid=100 train_rmse=0.1177 val_RMSE=0.1310 val_MAE=0.0395 val_CORR=0.4175 NSEmed=0.183 (2s)
+==> FKAN_L24: val RMSE 0.1271 CORR 0.4511 | test RMSE 0.1125 (52s)
+[RFKAN_L24] ep   1/18 grid=3 train_rmse=0.1208 val_RMSE=0.1231 val_MAE=0.0348 val_CORR=0.4854 NSEmed=0.355 (10s)
+[RFKAN_L24] ep   2/18 grid=3 train_rmse=0.1122 val_RMSE=0.1171 val_MAE=0.0327 val_CORR=0.5341 NSEmed=0.346 (11s)
+[RFKAN_L24] ep   3/18 grid=3 train_rmse=0.1099 val_RMSE=0.1133 val_MAE=0.0269 val_CORR=0.5643 NSEmed=0.478 (11s)
+[RFKAN_L24] ep   4/18 grid=5 train_rmse=0.1080 val_RMSE=0.1135 val_MAE=0.0321 val_CORR=0.5626 NSEmed=0.399 (10s)
+[RFKAN_L24] ep   5/18 grid=5 train_rmse=0.1065 val_RMSE=0.1109 val_MAE=0.0284 val_CORR=0.5820 NSEmed=0.417 (9s)
+[RFKAN_L24] ep   6/18 grid=5 train_rmse=0.1059 val_RMSE=0.1139 val_MAE=0.0332 val_CORR=0.5593 NSEmed=0.326 (9s)
+[RFKAN_L24] ep   7/18 grid=10 train_rmse=0.1049 val_RMSE=0.1105 val_MAE=0.0280 val_CORR=0.5852 NSEmed=0.462 (9s)
+[RFKAN_L24] ep   8/18 grid=10 train_rmse=0.1044 val_RMSE=0.1110 val_MAE=0.0353 val_CORR=0.5815 NSEmed=0.287 (10s)
+[RFKAN_L24] ep   9/18 grid=10 train_rmse=0.1040 val_RMSE=0.1096 val_MAE=0.0311 val_CORR=0.5921 NSEmed=0.374 (8s)
+[RFKAN_L24] ep  10/18 grid=20 train_rmse=0.1033 val_RMSE=0.1101 val_MAE=0.0328 val_CORR=0.5886 NSEmed=0.357 (9s)
+[RFKAN_L24] ep  11/18 grid=20 train_rmse=0.1028 val_RMSE=0.1093 val_MAE=0.0299 val_CORR=0.5943 NSEmed=0.394 (11s)
+[RFKAN_L24] ep  12/18 grid=20 train_rmse=0.1024 val_RMSE=0.1097 val_MAE=0.0322 val_CORR=0.5912 NSEmed=0.362 (12s)
+[RFKAN_L24] ep  13/18 grid=50 train_rmse=0.1022 val_RMSE=0.1113 val_MAE=0.0373 val_CORR=0.5796 NSEmed=0.279 (11s)
+[RFKAN_L24] ep  14/18 grid=50 train_rmse=0.1016 val_RMSE=0.1102 val_MAE=0.0364 val_CORR=0.5873 NSEmed=0.281 (11s)
+[RFKAN_L24] ep  15/18 grid=50 train_rmse=0.1014 val_RMSE=0.1119 val_MAE=0.0383 val_CORR=0.5746 NSEmed=0.228 (12s)
+[RFKAN_L24] ep  16/18 grid=100 train_rmse=0.1012 val_RMSE=0.1110 val_MAE=0.0351 val_CORR=0.5818 NSEmed=0.314 (9s)
+[RFKAN_L24] ep  17/18 grid=100 train_rmse=0.1008 val_RMSE=0.1125 val_MAE=0.0369 val_CORR=0.5700 NSEmed=0.254 (10s)
+[RFKAN_L24] ep  18/18 grid=100 train_rmse=0.1006 val_RMSE=0.1122 val_MAE=0.0376 val_CORR=0.5724 NSEmed=0.203 (9s)
+==> RFKAN_L24: val RMSE 0.1093 CORR 0.5943 | test RMSE 0.1056 (182s)
+[KAN_L168] ep   1/18 grid=3 train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3545 NSEmed=0.519 (3s)
+[KAN_L168] ep   2/18 grid=3 train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3545 NSEmed=0.518 (3s)
+[KAN_L168] ep   3/18 grid=3 train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3545 NSEmed=0.525 (3s)
+[KAN_L168] ep   4/18 grid=5 train_rmse=0.1248 val_RMSE=0.1361 val_MAE=0.0344 val_CORR=0.3707 NSEmed=0.339 (3s)
+[KAN_L168] ep   5/18 grid=5 train_rmse=0.1220 val_RMSE=0.1335 val_MAE=0.0314 val_CORR=0.3951 NSEmed=0.384 (3s)
+[KAN_L168] ep   6/18 grid=5 train_rmse=0.1193 val_RMSE=0.1336 val_MAE=0.0335 val_CORR=0.3934 NSEmed=0.316 (3s)
+[KAN_L168] ep   7/18 grid=10 train_rmse=0.1168 val_RMSE=0.1333 val_MAE=0.0408 val_CORR=0.3969 NSEmed=0.153 (4s)
+[KAN_L168] ep   8/18 grid=10 train_rmse=0.1144 val_RMSE=0.1301 val_MAE=0.0403 val_CORR=0.4253 NSEmed=0.156 (3s)
+[KAN_L168] ep   9/18 grid=10 train_rmse=0.1120 val_RMSE=0.1277 val_MAE=0.0340 val_CORR=0.4464 NSEmed=0.285 (3s)
+[KAN_L168] ep  10/18 grid=20 train_rmse=0.1103 val_RMSE=0.1273 val_MAE=0.0341 val_CORR=0.4499 NSEmed=0.265 (5s)
+[KAN_L168] ep  11/18 grid=20 train_rmse=0.1081 val_RMSE=0.1263 val_MAE=0.0336 val_CORR=0.4583 NSEmed=0.286 (5s)
+[KAN_L168] ep  12/18 grid=20 train_rmse=0.1063 val_RMSE=0.1272 val_MAE=0.0366 val_CORR=0.4502 NSEmed=0.208 (5s)
+[KAN_L168] ep  13/18 grid=50 train_rmse=0.1059 val_RMSE=0.1310 val_MAE=0.0425 val_CORR=0.4171 NSEmed=0.069 (11s)
+[KAN_L168] ep  14/18 grid=50 train_rmse=0.1039 val_RMSE=0.1309 val_MAE=0.0434 val_CORR=0.4185 NSEmed=0.049 (11s)
+[KAN_L168] ep  15/18 grid=50 train_rmse=0.1022 val_RMSE=0.1329 val_MAE=0.0476 val_CORR=0.4003 NSEmed=-0.073 (11s)
+[KAN_L168] ep  16/18 grid=100 train_rmse=0.1018 val_RMSE=0.1330 val_MAE=0.0463 val_CORR=0.3993 NSEmed=-0.024 (21s)
+[KAN_L168] ep  17/18 grid=100 train_rmse=0.1004 val_RMSE=0.1339 val_MAE=0.0485 val_CORR=0.3909 NSEmed=-0.096 (21s)
+[KAN_L168] ep  18/18 grid=100 train_rmse=0.0990 val_RMSE=0.1340 val_MAE=0.0491 val_CORR=0.3897 NSEmed=-0.109 (21s)
+==> KAN_L168: val RMSE 0.1263 CORR 0.4583 | test RMSE 0.1125 (554s)
+[RKAN_L168] ep   1/18 grid=3 train_rmse=0.1197 val_RMSE=0.1190 val_MAE=0.0338 val_CORR=0.5190 NSEmed=0.315 (53s)
+[RKAN_L168] ep   2/18 grid=3 train_rmse=0.1104 val_RMSE=0.1143 val_MAE=0.0294 val_CORR=0.5561 NSEmed=0.378 (54s)
+[RKAN_L168] ep   3/18 grid=3 train_rmse=0.1079 val_RMSE=0.1101 val_MAE=0.0256 val_CORR=0.5885 NSEmed=0.467 (55s)
+[RKAN_L168] ep   4/18 grid=5 train_rmse=0.1052 val_RMSE=0.1066 val_MAE=0.0247 val_CORR=0.6142 NSEmed=0.502 (48s)
+[RKAN_L168] ep   5/18 grid=5 train_rmse=0.1036 val_RMSE=0.1069 val_MAE=0.0293 val_CORR=0.6116 NSEmed=0.385 (55s)
+[RKAN_L168] ep   6/18 grid=5 train_rmse=0.1026 val_RMSE=0.1066 val_MAE=0.0277 val_CORR=0.6141 NSEmed=0.444 (52s)
+[RKAN_L168] ep   7/18 grid=10 train_rmse=0.1025 val_RMSE=0.1052 val_MAE=0.0240 val_CORR=0.6245 NSEmed=0.531 (51s)
+[RKAN_L168] ep   8/18 grid=10 train_rmse=0.1017 val_RMSE=0.1063 val_MAE=0.0267 val_CORR=0.6161 NSEmed=0.468 (57s)
+[RKAN_L168] ep   9/18 grid=10 train_rmse=0.1012 val_RMSE=0.1066 val_MAE=0.0257 val_CORR=0.6141 NSEmed=0.536 (53s)
+[RKAN_L168] ep  10/18 grid=20 train_rmse=0.1017 val_RMSE=0.1079 val_MAE=0.0293 val_CORR=0.6049 NSEmed=0.430 (61s)
+[RKAN_L168] ep  11/18 grid=20 train_rmse=0.1010 val_RMSE=0.1069 val_MAE=0.0262 val_CORR=0.6118 NSEmed=0.508 (60s)
+[RKAN_L168] ep  12/18 grid=20 train_rmse=0.1006 val_RMSE=0.1065 val_MAE=0.0272 val_CORR=0.6149 NSEmed=0.476 (57s)
+[RKAN_L168] ep  13/18 grid=50 train_rmse=0.1010 val_RMSE=0.1071 val_MAE=0.0270 val_CORR=0.6103 NSEmed=0.479 (81s)
+[RKAN_L168] ep  14/18 grid=50 train_rmse=0.1005 val_RMSE=0.1067 val_MAE=0.0269 val_CORR=0.6130 NSEmed=0.463 (87s)
+[RKAN_L168] ep  15/18 grid=50 train_rmse=0.1001 val_RMSE=0.1064 val_MAE=0.0271 val_CORR=0.6152 NSEmed=0.477 (81s)
+[RKAN_L168] ep  16/18 grid=100 train_rmse=0.1003 val_RMSE=0.1071 val_MAE=0.0271 val_CORR=0.6104 NSEmed=0.485 (1502s)
+[RKAN_L168] ep  17/18 grid=100 train_rmse=0.1000 val_RMSE=0.1072 val_MAE=0.0277 val_CORR=0.6098 NSEmed=0.458 (1538s)
+[RKAN_L168] ep  18/18 grid=100 train_rmse=0.0997 val_RMSE=0.1069 val_MAE=0.0276 val_CORR=0.6116 NSEmed=0.458 (1535s)
+==> RKAN_L168: val RMSE 0.1052 CORR 0.6245 | test RMSE 0.1033 (6198s)
+[FKAN_L168] ep   1/18 grid=3 train_rmse=0.1299 val_RMSE=0.1380 val_MAE=0.0276 val_CORR=0.3528 NSEmed=0.429 (2s)
+[FKAN_L168] ep   2/18 grid=3 train_rmse=0.1266 val_RMSE=0.1382 val_MAE=0.0277 val_CORR=0.3515 NSEmed=0.420 (2s)
+[FKAN_L168] ep   3/18 grid=3 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0280 val_CORR=0.3528 NSEmed=0.412 (2s)
+[FKAN_L168] ep   4/18 grid=5 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0275 val_CORR=0.3530 NSEmed=0.436 (2s)
+[FKAN_L168] ep   5/18 grid=5 train_rmse=0.1266 val_RMSE=0.1381 val_MAE=0.0275 val_CORR=0.3526 NSEmed=0.428 (2s)
+[FKAN_L168] ep   6/18 grid=5 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0275 val_CORR=0.3532 NSEmed=0.426 (2s)
+[FKAN_L168] ep   7/18 grid=10 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0273 val_CORR=0.3536 NSEmed=0.431 (2s)
+[FKAN_L168] ep   8/18 grid=10 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0273 val_CORR=0.3530 NSEmed=0.441 (2s)
+[FKAN_L168] ep   9/18 grid=10 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0272 val_CORR=0.3536 NSEmed=0.438 (2s)
+[FKAN_L168] ep  10/18 grid=20 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0272 val_CORR=0.3531 NSEmed=0.432 (2s)
+[FKAN_L168] ep  11/18 grid=20 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0273 val_CORR=0.3532 NSEmed=0.434 (2s)
+[FKAN_L168] ep  12/18 grid=20 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0273 val_CORR=0.3532 NSEmed=0.434 (2s)
+[FKAN_L168] ep  13/18 grid=50 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0271 val_CORR=0.3535 NSEmed=0.451 (4s)
+[FKAN_L168] ep  14/18 grid=50 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0271 val_CORR=0.3535 NSEmed=0.442 (4s)
+[FKAN_L168] ep  15/18 grid=50 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0272 val_CORR=0.3534 NSEmed=0.448 (4s)
+[FKAN_L168] ep  16/18 grid=100 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0272 val_CORR=0.3530 NSEmed=0.433 (9s)
+[FKAN_L168] ep  17/18 grid=100 train_rmse=0.1266 val_RMSE=0.1380 val_MAE=0.0272 val_CORR=0.3531 NSEmed=0.447 (9s)
+[FKAN_L168] ep  18/18 grid=100 train_rmse=0.1266 val_RMSE=0.1381 val_MAE=0.0272 val_CORR=0.3527 NSEmed=0.435 (9s)
+==> FKAN_L168: val RMSE 0.1380 CORR 0.3536 | test RMSE 0.1190 (68s)
+[RFKAN_L168] ep   1/18 grid=3 train_rmse=0.1202 val_RMSE=0.1243 val_MAE=0.0392 val_CORR=0.4754 NSEmed=0.239 (37s)
+[RFKAN_L168] ep   2/18 grid=3 train_rmse=0.1123 val_RMSE=0.1179 val_MAE=0.0334 val_CORR=0.5279 NSEmed=0.337 (37s)
+[RFKAN_L168] ep   3/18 grid=3 train_rmse=0.1098 val_RMSE=0.1145 val_MAE=0.0330 val_CORR=0.5545 NSEmed=0.360 (37s)
+[RFKAN_L168] ep   4/18 grid=5 train_rmse=0.1082 val_RMSE=0.1126 val_MAE=0.0296 val_CORR=0.5691 NSEmed=0.431 (41s)
+[RFKAN_L168] ep   5/18 grid=5 train_rmse=0.1069 val_RMSE=0.1125 val_MAE=0.0357 val_CORR=0.5698 NSEmed=0.298 (47s)
+[RFKAN_L168] ep   6/18 grid=5 train_rmse=0.1060 val_RMSE=0.1120 val_MAE=0.0300 val_CORR=0.5741 NSEmed=0.402 (53s)
+[RFKAN_L168] ep   7/18 grid=10 train_rmse=0.1051 val_RMSE=0.1097 val_MAE=0.0280 val_CORR=0.5910 NSEmed=0.443 (43s)
+[RFKAN_L168] ep   8/18 grid=10 train_rmse=0.1045 val_RMSE=0.1095 val_MAE=0.0335 val_CORR=0.5925 NSEmed=0.318 (40s)
+[RFKAN_L168] ep   9/18 grid=10 train_rmse=0.1040 val_RMSE=0.1092 val_MAE=0.0360 val_CORR=0.5951 NSEmed=0.267 (42s)
+[RFKAN_L168] ep  10/18 grid=20 train_rmse=0.1034 val_RMSE=0.1076 val_MAE=0.0294 val_CORR=0.6071 NSEmed=0.421 (43s)
+[RFKAN_L168] ep  11/18 grid=20 train_rmse=0.1029 val_RMSE=0.1077 val_MAE=0.0274 val_CORR=0.6064 NSEmed=0.497 (48s)
+[RFKAN_L168] ep  12/18 grid=20 train_rmse=0.1026 val_RMSE=0.1085 val_MAE=0.0306 val_CORR=0.6002 NSEmed=0.421 (52s)
+[RFKAN_L168] ep  13/18 grid=50 train_rmse=0.1022 val_RMSE=0.1098 val_MAE=0.0336 val_CORR=0.5903 NSEmed=0.340 (55s)
+[RFKAN_L168] ep  14/18 grid=50 train_rmse=0.1016 val_RMSE=0.1091 val_MAE=0.0313 val_CORR=0.5959 NSEmed=0.388 (53s)
+[RFKAN_L168] ep  15/18 grid=50 train_rmse=0.1014 val_RMSE=0.1106 val_MAE=0.0355 val_CORR=0.5846 NSEmed=0.267 (53s)
+[RFKAN_L168] ep  16/18 grid=100 train_rmse=0.1012 val_RMSE=0.1117 val_MAE=0.0373 val_CORR=0.5763 NSEmed=0.241 (78s)
+[RFKAN_L168] ep  17/18 grid=100 train_rmse=0.1009 val_RMSE=0.1111 val_MAE=0.0353 val_CORR=0.5807 NSEmed=0.287 (66s)
+[RFKAN_L168] ep  18/18 grid=100 train_rmse=0.1006 val_RMSE=0.1109 val_MAE=0.0361 val_CORR=0.5827 NSEmed=0.276 (62s)
+==> RFKAN_L168: val RMSE 0.1076 CORR 0.6071 | test RMSE 0.1049 (1058s)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+23 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[17:30:29] === 2/6 grid (L=72) ===
+[RFKAN_L72_grid_ext] ep   1/21 grid=3 train_rmse=0.1201 val_RMSE=0.1249 val_MAE=0.0456 val_CORR=0.4705 NSEmed=0.149 (19s)
+[RFKAN_L72_grid_ext] ep   2/21 grid=3 train_rmse=0.1123 val_RMSE=0.1174 val_MAE=0.0319 val_CORR=0.5316 NSEmed=0.372 (16s)
+[RFKAN_L72_grid_ext] ep   3/21 grid=3 train_rmse=0.1097 val_RMSE=0.1146 val_MAE=0.0324 val_CORR=0.5539 NSEmed=0.373 (16s)
+[RFKAN_L72_grid_ext] ep   4/21 grid=5 train_rmse=0.1081 val_RMSE=0.1124 val_MAE=0.0299 val_CORR=0.5707 NSEmed=0.439 (16s)
+[RFKAN_L72_grid_ext] ep   5/21 grid=5 train_rmse=0.1068 val_RMSE=0.1108 val_MAE=0.0303 val_CORR=0.5832 NSEmed=0.376 (16s)
+[RFKAN_L72_grid_ext] ep   6/21 grid=5 train_rmse=0.1061 val_RMSE=0.1121 val_MAE=0.0299 val_CORR=0.5736 NSEmed=0.381 (16s)
+[RFKAN_L72_grid_ext] ep   7/21 grid=10 train_rmse=0.1052 val_RMSE=0.1098 val_MAE=0.0287 val_CORR=0.5903 NSEmed=0.437 (16s)
+[RFKAN_L72_grid_ext] ep   8/21 grid=10 train_rmse=0.1047 val_RMSE=0.1119 val_MAE=0.0413 val_CORR=0.5750 NSEmed=0.189 (16s)
+[RFKAN_L72_grid_ext] ep   9/21 grid=10 train_rmse=0.1041 val_RMSE=0.1086 val_MAE=0.0310 val_CORR=0.5992 NSEmed=0.377 (17s)
+[RFKAN_L72_grid_ext] ep  10/21 grid=20 train_rmse=0.1035 val_RMSE=0.1087 val_MAE=0.0328 val_CORR=0.5986 NSEmed=0.359 (17s)
+[RFKAN_L72_grid_ext] ep  11/21 grid=20 train_rmse=0.1029 val_RMSE=0.1076 val_MAE=0.0268 val_CORR=0.6065 NSEmed=0.492 (17s)
+[RFKAN_L72_grid_ext] ep  12/21 grid=20 train_rmse=0.1026 val_RMSE=0.1094 val_MAE=0.0323 val_CORR=0.5933 NSEmed=0.365 (17s)
+[RFKAN_L72_grid_ext] ep  13/21 grid=50 train_rmse=0.1023 val_RMSE=0.1086 val_MAE=0.0296 val_CORR=0.5994 NSEmed=0.432 (18s)
+[RFKAN_L72_grid_ext] ep  14/21 grid=50 train_rmse=0.1018 val_RMSE=0.1088 val_MAE=0.0333 val_CORR=0.5977 NSEmed=0.309 (18s)
+[RFKAN_L72_grid_ext] ep  15/21 grid=50 train_rmse=0.1017 val_RMSE=0.1096 val_MAE=0.0319 val_CORR=0.5919 NSEmed=0.361 (18s)
+[RFKAN_L72_grid_ext] ep  16/21 grid=100 train_rmse=0.1013 val_RMSE=0.1108 val_MAE=0.0328 val_CORR=0.5829 NSEmed=0.359 (22s)
+[RFKAN_L72_grid_ext] ep  17/21 grid=100 train_rmse=0.1009 val_RMSE=0.1111 val_MAE=0.0326 val_CORR=0.5810 NSEmed=0.339 (27s)
+[RFKAN_L72_grid_ext] ep  18/21 grid=100 train_rmse=0.1007 val_RMSE=0.1108 val_MAE=0.0331 val_CORR=0.5829 NSEmed=0.360 (26s)
+[RFKAN_L72_grid_ext] ep  19/21 grid=200 train_rmse=0.1004 val_RMSE=0.1105 val_MAE=0.0351 val_CORR=0.5850 NSEmed=0.282 (37s)
+[RFKAN_L72_grid_ext] ep  20/21 grid=200 train_rmse=0.1002 val_RMSE=0.1118 val_MAE=0.0359 val_CORR=0.5752 NSEmed=0.264 (33s)
+[RFKAN_L72_grid_ext] ep  21/21 grid=200 train_rmse=0.1001 val_RMSE=0.1112 val_MAE=0.0344 val_CORR=0.5797 NSEmed=0.295 (35s)
+==> RFKAN_L72_grid_ext: val RMSE 0.1076 CORR 0.6065 | test RMSE 0.1052 (528s)
+[RFKAN_L72_fixed_g3] ep   1/18 grid=3 train_rmse=0.1201 val_RMSE=0.1249 val_MAE=0.0456 val_CORR=0.4705 NSEmed=0.149 (24s)
+[RFKAN_L72_fixed_g3] ep   2/18 grid=3 train_rmse=0.1123 val_RMSE=0.1174 val_MAE=0.0319 val_CORR=0.5316 NSEmed=0.372 (26s)
+[RFKAN_L72_fixed_g3] ep   3/18 grid=3 train_rmse=0.1097 val_RMSE=0.1146 val_MAE=0.0324 val_CORR=0.5539 NSEmed=0.373 (23s)
+[RFKAN_L72_fixed_g3] ep   4/18 grid=3 train_rmse=0.1087 val_RMSE=0.1129 val_MAE=0.0266 val_CORR=0.5675 NSEmed=0.490 (22s)
+[RFKAN_L72_fixed_g3] ep   5/18 grid=3 train_rmse=0.1074 val_RMSE=0.1121 val_MAE=0.0310 val_CORR=0.5730 NSEmed=0.362 (24s)
+[RFKAN_L72_fixed_g3] ep   6/18 grid=3 train_rmse=0.1066 val_RMSE=0.1148 val_MAE=0.0340 val_CORR=0.5528 NSEmed=0.354 (23s)
+[RFKAN_L72_fixed_g3] ep   7/18 grid=3 train_rmse=0.1062 val_RMSE=0.1117 val_MAE=0.0307 val_CORR=0.5762 NSEmed=0.380 (22s)
+[RFKAN_L72_fixed_g3] ep   8/18 grid=3 train_rmse=0.1059 val_RMSE=0.1096 val_MAE=0.0346 val_CORR=0.5917 NSEmed=0.266 (20s)
+[RFKAN_L72_fixed_g3] ep   9/18 grid=3 train_rmse=0.1056 val_RMSE=0.1103 val_MAE=0.0351 val_CORR=0.5871 NSEmed=0.258 (21s)
+[RFKAN_L72_fixed_g3] ep  10/18 grid=3 train_rmse=0.1051 val_RMSE=0.1143 val_MAE=0.0409 val_CORR=0.5567 NSEmed=0.104 (24s)
+[RFKAN_L72_fixed_g3] ep  11/18 grid=3 train_rmse=0.1048 val_RMSE=0.1110 val_MAE=0.0361 val_CORR=0.5819 NSEmed=0.222 (23s)
+[RFKAN_L72_fixed_g3] ep  12/18 grid=3 train_rmse=0.1049 val_RMSE=0.1208 val_MAE=0.0521 val_CORR=0.5045 NSEmed=-0.137 (22s)
+[RFKAN_L72_fixed_g3] ep  13/18 grid=3 train_rmse=0.1046 val_RMSE=0.1216 val_MAE=0.0532 val_CORR=0.4981 NSEmed=-0.172 (23s)
+[RFKAN_L72_fixed_g3] ep  14/18 grid=3 train_rmse=0.1045 val_RMSE=0.1190 val_MAE=0.0501 val_CORR=0.5193 NSEmed=-0.065 (26s)
+[RFKAN_L72_fixed_g3] ep  15/18 grid=3 train_rmse=0.1039 val_RMSE=0.1202 val_MAE=0.0548 val_CORR=0.5092 NSEmed=-0.087 (24s)
+[RFKAN_L72_fixed_g3] ep  16/18 grid=3 train_rmse=0.1038 val_RMSE=0.1182 val_MAE=0.0482 val_CORR=0.5252 NSEmed=-0.026 (23s)
+[RFKAN_L72_fixed_g3] ep  17/18 grid=3 train_rmse=0.1038 val_RMSE=0.1219 val_MAE=0.0561 val_CORR=0.4954 NSEmed=-0.313 (21s)
+[RFKAN_L72_fixed_g3] ep  18/18 grid=3 train_rmse=0.1035 val_RMSE=0.1341 val_MAE=0.0687 val_CORR=0.3888 NSEmed=-0.780 (24s)
+==> RFKAN_L72_fixed_g3: val RMSE 0.1096 CORR 0.5917 | test RMSE 0.1070 (414s)
+[RFKAN_L72_fixed_g100] ep   1/18 grid=100 train_rmse=0.1339 val_RMSE=0.1431 val_MAE=0.0484 val_CORR=0.3046 NSEmed=-0.029 (25s)
+[RFKAN_L72_fixed_g100] ep   2/18 grid=100 train_rmse=0.1313 val_RMSE=0.1413 val_MAE=0.0434 val_CORR=0.3221 NSEmed=0.087 (22s)
+[RFKAN_L72_fixed_g100] ep   3/18 grid=100 train_rmse=0.1300 val_RMSE=0.1412 val_MAE=0.0426 val_CORR=0.3228 NSEmed=0.136 (27s)
+[RFKAN_L72_fixed_g100] ep   4/18 grid=100 train_rmse=0.1296 val_RMSE=0.1405 val_MAE=0.0407 val_CORR=0.3298 NSEmed=0.183 (27s)
+[RFKAN_L72_fixed_g100] ep   5/18 grid=100 train_rmse=0.1371 val_RMSE=0.1689 val_MAE=0.0911 val_CORR=0.0308 NSEmed=-1.809 (25s)
+[RFKAN_L72_fixed_g100] ep   6/18 grid=100 train_rmse=0.1534 val_RMSE=0.1565 val_MAE=0.0742 val_CORR=0.1678 NSEmed=-0.902 (25s)
+[RFKAN_L72_fixed_g100] ep   7/18 grid=100 train_rmse=0.1452 val_RMSE=0.1505 val_MAE=0.0640 val_CORR=0.2310 NSEmed=-0.498 (25s)
+[RFKAN_L72_fixed_g100] ep   8/18 grid=100 train_rmse=0.1379 val_RMSE=0.1442 val_MAE=0.0505 val_CORR=0.2937 NSEmed=-0.082 (24s)
+[RFKAN_L72_fixed_g100] ep   9/18 grid=100 train_rmse=0.1318 val_RMSE=0.1427 val_MAE=0.0470 val_CORR=0.3088 NSEmed=0.016 (25s)
+[RFKAN_L72_fixed_g100] ep  10/18 grid=100 train_rmse=0.1314 val_RMSE=0.1424 val_MAE=0.0462 val_CORR=0.3110 NSEmed=0.011 (27s)
+[RFKAN_L72_fixed_g100] ep  11/18 grid=100 train_rmse=0.1314 val_RMSE=0.1425 val_MAE=0.0464 val_CORR=0.3101 NSEmed=0.023 (26s)
+[RFKAN_L72_fixed_g100] ep  12/18 grid=100 train_rmse=0.1314 val_RMSE=0.1427 val_MAE=0.0475 val_CORR=0.3080 NSEmed=-0.010 (24s)
+[RFKAN_L72_fixed_g100] ep  13/18 grid=100 train_rmse=0.1388 val_RMSE=0.1614 val_MAE=0.0801 val_CORR=0.1150 NSEmed=-1.195 (26s)
+[RFKAN_L72_fixed_g100] ep  14/18 grid=100 train_rmse=0.1518 val_RMSE=0.1614 val_MAE=0.0801 val_CORR=0.1150 NSEmed=-1.195 (28s)
+[RFKAN_L72_fixed_g100] ep  15/18 grid=100 train_rmse=0.1518 val_RMSE=0.1614 val_MAE=0.0801 val_CORR=0.1150 NSEmed=-1.195 (28s)
+[RFKAN_L72_fixed_g100] ep  16/18 grid=100 train_rmse=0.1518 val_RMSE=0.1614 val_MAE=0.0801 val_CORR=0.1150 NSEmed=-1.195 (27s)
+[RFKAN_L72_fixed_g100] ep  17/18 grid=100 train_rmse=0.1518 val_RMSE=0.1614 val_MAE=0.0801 val_CORR=0.1150 NSEmed=-1.195 (26s)
+[RFKAN_L72_fixed_g100] ep  18/18 grid=100 train_rmse=0.1518 val_RMSE=0.1614 val_MAE=0.0801 val_CORR=0.1150 NSEmed=-1.195 (27s)
+==> RFKAN_L72_fixed_g100: val RMSE 0.1405 CORR 0.3298 | test RMSE 0.1220 (469s)
+[RFKAN_L72_nodecay] ep   1/18 grid=3 train_rmse=0.1201 val_RMSE=0.1249 val_MAE=0.0456 val_CORR=0.4705 NSEmed=0.149 (27s)
+[RFKAN_L72_nodecay] ep   2/18 grid=3 train_rmse=0.1123 val_RMSE=0.1174 val_MAE=0.0319 val_CORR=0.5316 NSEmed=0.372 (28s)
+[RFKAN_L72_nodecay] ep   3/18 grid=3 train_rmse=0.1097 val_RMSE=0.1146 val_MAE=0.0324 val_CORR=0.5539 NSEmed=0.373 (26s)
+[RFKAN_L72_nodecay] ep   4/18 grid=5 train_rmse=0.1095 val_RMSE=0.1136 val_MAE=0.0313 val_CORR=0.5615 NSEmed=0.404 (22s)
+[RFKAN_L72_nodecay] ep   5/18 grid=5 train_rmse=0.1081 val_RMSE=0.1175 val_MAE=0.0476 val_CORR=0.5310 NSEmed=0.003 (16s)
+[RFKAN_L72_nodecay] ep   6/18 grid=5 train_rmse=0.1070 val_RMSE=0.1140 val_MAE=0.0300 val_CORR=0.5590 NSEmed=0.394 (16s)
+[RFKAN_L72_nodecay] ep   7/18 grid=10 train_rmse=0.1084 val_RMSE=0.1190 val_MAE=0.0458 val_CORR=0.5187 NSEmed=0.080 (17s)
+[RFKAN_L72_nodecay] ep   8/18 grid=10 train_rmse=0.1075 val_RMSE=0.1169 val_MAE=0.0477 val_CORR=0.5360 NSEmed=0.073 (19s)
+[RFKAN_L72_nodecay] ep   9/18 grid=10 train_rmse=0.1074 val_RMSE=0.1138 val_MAE=0.0411 val_CORR=0.5605 NSEmed=0.185 (19s)
+[RFKAN_L72_nodecay] ep  10/18 grid=20 train_rmse=0.1115 val_RMSE=0.1198 val_MAE=0.0448 val_CORR=0.5126 NSEmed=0.090 (20s)
+[RFKAN_L72_nodecay] ep  11/18 grid=20 train_rmse=0.1391 val_RMSE=0.1972 val_MAE=0.1167 val_CORR=-0.3206 NSEmed=-4.590 (19s)
+[RFKAN_L72_nodecay] ep  12/18 grid=20 train_rmse=0.1626 val_RMSE=0.1695 val_MAE=0.0952 val_CORR=0.0248 NSEmed=-2.728 (19s)
+[RFKAN_L72_nodecay] ep  13/18 grid=50 train_rmse=0.1687 val_RMSE=0.1810 val_MAE=0.1048 val_CORR=-0.1120 NSEmed=-2.648 (20s)
+[RFKAN_L72_nodecay] ep  14/18 grid=50 train_rmse=0.1731 val_RMSE=0.1807 val_MAE=0.1049 val_CORR=-0.1091 NSEmed=-2.652 (19s)
+[RFKAN_L72_nodecay] ep  15/18 grid=50 train_rmse=0.1729 val_RMSE=0.1798 val_MAE=0.1044 val_CORR=-0.0976 NSEmed=-2.604 (25s)
+[RFKAN_L72_nodecay] ep  16/18 grid=100 train_rmse=0.1730 val_RMSE=0.1806 val_MAE=0.1048 val_CORR=-0.1072 NSEmed=-2.727 (25s)
+[RFKAN_L72_nodecay] ep  17/18 grid=100 train_rmse=0.1727 val_RMSE=0.1807 val_MAE=0.1050 val_CORR=-0.1084 NSEmed=-2.695 (24s)
+[RFKAN_L72_nodecay] ep  18/18 grid=100 train_rmse=0.1728 val_RMSE=0.1808 val_MAE=0.1052 val_CORR=-0.1098 NSEmed=-2.781 (27s)
+==> RFKAN_L72_nodecay: val RMSE 0.1136 CORR 0.5615 | test RMSE 0.1071 (394s)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+27 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[18:01:29] === 3/6 baselines ===
+==> ELM: val RMSE 0.1584 CORR 0.1484 | test RMSE 0.1423 (0s)
+[LSTM] ep   1/18 grid=None train_rmse=0.1249 val_RMSE=0.1379 val_MAE=0.0250 val_CORR=0.3544 NSEmed=0.505 (18s)
+[LSTM] ep   2/18 grid=None train_rmse=0.1237 val_RMSE=0.1144 val_MAE=0.0256 val_CORR=0.5555 NSEmed=0.483 (17s)
+[LSTM] ep   3/18 grid=None train_rmse=0.1073 val_RMSE=0.1094 val_MAE=0.0242 val_CORR=0.5937 NSEmed=0.543 (19s)
+[LSTM] ep   4/18 grid=None train_rmse=0.1035 val_RMSE=0.1055 val_MAE=0.0274 val_CORR=0.6222 NSEmed=0.472 (20s)
+[LSTM] ep   5/18 grid=None train_rmse=0.1022 val_RMSE=0.1034 val_MAE=0.0227 val_CORR=0.6368 NSEmed=0.572 (17s)
+[LSTM] ep   6/18 grid=None train_rmse=0.1010 val_RMSE=0.1039 val_MAE=0.0247 val_CORR=0.6334 NSEmed=0.530 (18s)
+[LSTM] ep   7/18 grid=None train_rmse=0.1001 val_RMSE=0.1051 val_MAE=0.0228 val_CORR=0.6252 NSEmed=0.602 (18s)
+[LSTM] ep   8/18 grid=None train_rmse=0.0999 val_RMSE=0.1030 val_MAE=0.0217 val_CORR=0.6397 NSEmed=0.600 (15s)
+[LSTM] ep   9/18 grid=None train_rmse=0.0991 val_RMSE=0.1065 val_MAE=0.0201 val_CORR=0.6145 NSEmed=0.616 (18s)
+[LSTM] ep  10/18 grid=None train_rmse=0.0987 val_RMSE=0.1048 val_MAE=0.0284 val_CORR=0.6271 NSEmed=0.456 (16s)
+[LSTM] ep  11/18 grid=None train_rmse=0.0986 val_RMSE=0.1021 val_MAE=0.0231 val_CORR=0.6459 NSEmed=0.587 (20s)
+[LSTM] ep  12/18 grid=None train_rmse=0.0983 val_RMSE=0.1023 val_MAE=0.0211 val_CORR=0.6448 NSEmed=0.618 (17s)
+[LSTM] ep  13/18 grid=None train_rmse=0.0984 val_RMSE=0.1027 val_MAE=0.0214 val_CORR=0.6419 NSEmed=0.621 (16s)
+[LSTM] ep  14/18 grid=None train_rmse=0.0977 val_RMSE=0.1030 val_MAE=0.0215 val_CORR=0.6395 NSEmed=0.617 (19s)
+[LSTM] ep  15/18 grid=None train_rmse=0.0974 val_RMSE=0.1046 val_MAE=0.0222 val_CORR=0.6284 NSEmed=0.601 (20s)
+[LSTM] ep  16/18 grid=None train_rmse=0.0972 val_RMSE=0.1025 val_MAE=0.0264 val_CORR=0.6432 NSEmed=0.505 (19s)
+[LSTM] ep  17/18 grid=None train_rmse=0.0967 val_RMSE=0.1039 val_MAE=0.0257 val_CORR=0.6333 NSEmed=0.518 (17s)
+[LSTM] ep  18/18 grid=None train_rmse=0.0965 val_RMSE=0.1055 val_MAE=0.0255 val_CORR=0.6222 NSEmed=0.543 (18s)
+==> LSTM: val RMSE 0.1021 CORR 0.6459 | test RMSE 0.1012 (327s)
+[GRU] ep   1/18 grid=None train_rmse=0.1106 val_RMSE=0.1145 val_MAE=0.0316 val_CORR=0.5546 NSEmed=0.367 (16s)
+[GRU] ep   2/18 grid=None train_rmse=0.1035 val_RMSE=0.1073 val_MAE=0.0216 val_CORR=0.6092 NSEmed=0.598 (16s)
+[GRU] ep   3/18 grid=None train_rmse=0.1029 val_RMSE=0.1054 val_MAE=0.0228 val_CORR=0.6226 NSEmed=0.554 (18s)
+[GRU] ep   4/18 grid=None train_rmse=0.1017 val_RMSE=0.1054 val_MAE=0.0280 val_CORR=0.6225 NSEmed=0.466 (16s)
+[GRU] ep   5/18 grid=None train_rmse=0.1006 val_RMSE=0.1033 val_MAE=0.0234 val_CORR=0.6378 NSEmed=0.580 (17s)
+[GRU] ep   6/18 grid=None train_rmse=0.0999 val_RMSE=0.1034 val_MAE=0.0258 val_CORR=0.6367 NSEmed=0.504 (19s)
+[GRU] ep   7/18 grid=None train_rmse=0.0995 val_RMSE=0.1058 val_MAE=0.0236 val_CORR=0.6202 NSEmed=0.557 (18s)
+[GRU] ep   8/18 grid=None train_rmse=0.0991 val_RMSE=0.1032 val_MAE=0.0255 val_CORR=0.6381 NSEmed=0.511 (17s)
+[GRU] ep   9/18 grid=None train_rmse=0.0986 val_RMSE=0.1031 val_MAE=0.0207 val_CORR=0.6392 NSEmed=0.610 (18s)
+[GRU] ep  10/18 grid=None train_rmse=0.0977 val_RMSE=0.1069 val_MAE=0.0357 val_CORR=0.6116 NSEmed=0.294 (17s)
+[GRU] ep  11/18 grid=None train_rmse=0.0976 val_RMSE=0.1032 val_MAE=0.0258 val_CORR=0.6383 NSEmed=0.523 (16s)
+[GRU] ep  12/18 grid=None train_rmse=0.0970 val_RMSE=0.1048 val_MAE=0.0222 val_CORR=0.6270 NSEmed=0.606 (16s)
+[GRU] ep  13/18 grid=None train_rmse=0.0973 val_RMSE=0.1028 val_MAE=0.0244 val_CORR=0.6413 NSEmed=0.534 (17s)
+[GRU] ep  14/18 grid=None train_rmse=0.0966 val_RMSE=0.1037 val_MAE=0.0247 val_CORR=0.6346 NSEmed=0.556 (18s)
+[GRU] ep  15/18 grid=None train_rmse=0.0963 val_RMSE=0.1041 val_MAE=0.0212 val_CORR=0.6318 NSEmed=0.618 (19s)
+[GRU] ep  16/18 grid=None train_rmse=0.0959 val_RMSE=0.1033 val_MAE=0.0268 val_CORR=0.6376 NSEmed=0.495 (19s)
+[GRU] ep  17/18 grid=None train_rmse=0.0955 val_RMSE=0.1034 val_MAE=0.0287 val_CORR=0.6371 NSEmed=0.444 (20s)
+[GRU] ep  18/18 grid=None train_rmse=0.0952 val_RMSE=0.1063 val_MAE=0.0301 val_CORR=0.6160 NSEmed=0.442 (19s)
+==> GRU: val RMSE 0.1028 CORR 0.6413 | test RMSE 0.1015 (318s)
+[TCN] ep   1/18 grid=None train_rmse=0.1128 val_RMSE=0.1117 val_MAE=0.0351 val_CORR=0.5763 NSEmed=0.351 (16s)
+[TCN] ep   2/18 grid=None train_rmse=0.1055 val_RMSE=0.1100 val_MAE=0.0242 val_CORR=0.5892 NSEmed=0.541 (14s)
+[TCN] ep   3/18 grid=None train_rmse=0.1039 val_RMSE=0.1067 val_MAE=0.0251 val_CORR=0.6135 NSEmed=0.524 (14s)
+[TCN] ep   4/18 grid=None train_rmse=0.1027 val_RMSE=0.1066 val_MAE=0.0268 val_CORR=0.6139 NSEmed=0.486 (13s)
+[TCN] ep   5/18 grid=None train_rmse=0.1022 val_RMSE=0.1059 val_MAE=0.0228 val_CORR=0.6189 NSEmed=0.582 (13s)
+[TCN] ep   6/18 grid=None train_rmse=0.1016 val_RMSE=0.1061 val_MAE=0.0290 val_CORR=0.6180 NSEmed=0.405 (16s)
+[TCN] ep   7/18 grid=None train_rmse=0.1011 val_RMSE=0.1068 val_MAE=0.0255 val_CORR=0.6126 NSEmed=0.526 (16s)
+[TCN] ep   8/18 grid=None train_rmse=0.1010 val_RMSE=0.1063 val_MAE=0.0309 val_CORR=0.6163 NSEmed=0.392 (17s)
+[TCN] ep   9/18 grid=None train_rmse=0.1007 val_RMSE=0.1066 val_MAE=0.0279 val_CORR=0.6143 NSEmed=0.446 (17s)
+[TCN] ep  10/18 grid=None train_rmse=0.1001 val_RMSE=0.1082 val_MAE=0.0336 val_CORR=0.6026 NSEmed=0.308 (15s)
+[TCN] ep  11/18 grid=None train_rmse=0.0998 val_RMSE=0.1065 val_MAE=0.0296 val_CORR=0.6147 NSEmed=0.403 (14s)
+[TCN] ep  12/18 grid=None train_rmse=0.0994 val_RMSE=0.1056 val_MAE=0.0287 val_CORR=0.6212 NSEmed=0.439 (16s)
+[TCN] ep  13/18 grid=None train_rmse=0.0993 val_RMSE=0.1072 val_MAE=0.0333 val_CORR=0.6097 NSEmed=0.315 (16s)
+[TCN] ep  14/18 grid=None train_rmse=0.0992 val_RMSE=0.1057 val_MAE=0.0300 val_CORR=0.6202 NSEmed=0.423 (15s)
+[TCN] ep  15/18 grid=None train_rmse=0.0993 val_RMSE=0.1051 val_MAE=0.0270 val_CORR=0.6252 NSEmed=0.514 (16s)
+[TCN] ep  16/18 grid=None train_rmse=0.0989 val_RMSE=0.1068 val_MAE=0.0313 val_CORR=0.6126 NSEmed=0.359 (14s)
+[TCN] ep  17/18 grid=None train_rmse=0.0988 val_RMSE=0.1058 val_MAE=0.0306 val_CORR=0.6201 NSEmed=0.422 (15s)
+[TCN] ep  18/18 grid=None train_rmse=0.0985 val_RMSE=0.1069 val_MAE=0.0305 val_CORR=0.6123 NSEmed=0.407 (15s)
+==> TCN: val RMSE 0.1051 CORR 0.6252 | test RMSE 0.1032 (273s)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+31 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[18:17:33] === 4/6 seeds ===
+[RFKAN_L72_seed1] ep   1/18 grid=3 train_rmse=0.1207 val_RMSE=0.1234 val_MAE=0.0387 val_CORR=0.4831 NSEmed=0.249 (18s)
+[RFKAN_L72_seed1] ep   2/18 grid=3 train_rmse=0.1114 val_RMSE=0.1212 val_MAE=0.0354 val_CORR=0.5013 NSEmed=0.256 (16s)
+[RFKAN_L72_seed1] ep   3/18 grid=3 train_rmse=0.1094 val_RMSE=0.1135 val_MAE=0.0273 val_CORR=0.5622 NSEmed=0.449 (16s)
+[RFKAN_L72_seed1] ep   4/18 grid=5 train_rmse=0.1077 val_RMSE=0.1135 val_MAE=0.0306 val_CORR=0.5622 NSEmed=0.372 (16s)
+[RFKAN_L72_seed1] ep   5/18 grid=5 train_rmse=0.1066 val_RMSE=0.1157 val_MAE=0.0375 val_CORR=0.5456 NSEmed=0.174 (16s)
+[RFKAN_L72_seed1] ep   6/18 grid=5 train_rmse=0.1058 val_RMSE=0.1132 val_MAE=0.0317 val_CORR=0.5650 NSEmed=0.334 (17s)
+[RFKAN_L72_seed1] ep   7/18 grid=10 train_rmse=0.1050 val_RMSE=0.1107 val_MAE=0.0294 val_CORR=0.5835 NSEmed=0.415 (16s)
+[RFKAN_L72_seed1] ep   8/18 grid=10 train_rmse=0.1046 val_RMSE=0.1104 val_MAE=0.0342 val_CORR=0.5862 NSEmed=0.327 (16s)
+[RFKAN_L72_seed1] ep   9/18 grid=10 train_rmse=0.1041 val_RMSE=0.1090 val_MAE=0.0305 val_CORR=0.5966 NSEmed=0.392 (16s)
+[RFKAN_L72_seed1] ep  10/18 grid=20 train_rmse=0.1033 val_RMSE=0.1096 val_MAE=0.0290 val_CORR=0.5924 NSEmed=0.412 (16s)
+[RFKAN_L72_seed1] ep  11/18 grid=20 train_rmse=0.1029 val_RMSE=0.1090 val_MAE=0.0298 val_CORR=0.5963 NSEmed=0.437 (16s)
+[RFKAN_L72_seed1] ep  12/18 grid=20 train_rmse=0.1025 val_RMSE=0.1097 val_MAE=0.0341 val_CORR=0.5912 NSEmed=0.347 (17s)
+[RFKAN_L72_seed1] ep  13/18 grid=50 train_rmse=0.1022 val_RMSE=0.1107 val_MAE=0.0338 val_CORR=0.5839 NSEmed=0.334 (18s)
+[RFKAN_L72_seed1] ep  14/18 grid=50 train_rmse=0.1016 val_RMSE=0.1105 val_MAE=0.0342 val_CORR=0.5852 NSEmed=0.327 (18s)
+[RFKAN_L72_seed1] ep  15/18 grid=50 train_rmse=0.1014 val_RMSE=0.1099 val_MAE=0.0317 val_CORR=0.5897 NSEmed=0.367 (18s)
+[RFKAN_L72_seed1] ep  16/18 grid=100 train_rmse=0.1010 val_RMSE=0.1101 val_MAE=0.0314 val_CORR=0.5885 NSEmed=0.380 (21s)
+[RFKAN_L72_seed1] ep  17/18 grid=100 train_rmse=0.1006 val_RMSE=0.1104 val_MAE=0.0317 val_CORR=0.5860 NSEmed=0.365 (21s)
+[RFKAN_L72_seed1] ep  18/18 grid=100 train_rmse=0.1003 val_RMSE=0.1111 val_MAE=0.0325 val_CORR=0.5810 NSEmed=0.337 (21s)
+==> RFKAN_L72_seed1: val RMSE 0.1090 CORR 0.5966 | test RMSE 0.1061 (320s)
+[LSTM_seed1] ep   1/18 grid=None train_rmse=0.1179 val_RMSE=0.1121 val_MAE=0.0337 val_CORR=0.5736 NSEmed=0.358 (18s)
+[LSTM_seed1] ep   2/18 grid=None train_rmse=0.1054 val_RMSE=0.1100 val_MAE=0.0234 val_CORR=0.5887 NSEmed=0.527 (19s)
+[LSTM_seed1] ep   3/18 grid=None train_rmse=0.1029 val_RMSE=0.1079 val_MAE=0.0227 val_CORR=0.6043 NSEmed=0.547 (20s)
+[LSTM_seed1] ep   4/18 grid=None train_rmse=0.1017 val_RMSE=0.1038 val_MAE=0.0281 val_CORR=0.6339 NSEmed=0.464 (22s)
+[LSTM_seed1] ep   5/18 grid=None train_rmse=0.1009 val_RMSE=0.1039 val_MAE=0.0223 val_CORR=0.6334 NSEmed=0.599 (18s)
+[LSTM_seed1] ep   6/18 grid=None train_rmse=0.1004 val_RMSE=0.1066 val_MAE=0.0272 val_CORR=0.6144 NSEmed=0.486 (18s)
+[LSTM_seed1] ep   7/18 grid=None train_rmse=0.0994 val_RMSE=0.1036 val_MAE=0.0248 val_CORR=0.6353 NSEmed=0.574 (16s)
+[LSTM_seed1] ep   8/18 grid=None train_rmse=0.0994 val_RMSE=0.1040 val_MAE=0.0230 val_CORR=0.6324 NSEmed=0.607 (20s)
+[LSTM_seed1] ep   9/18 grid=None train_rmse=0.0989 val_RMSE=0.1050 val_MAE=0.0213 val_CORR=0.6253 NSEmed=0.609 (19s)
+[LSTM_seed1] ep  10/18 grid=None train_rmse=0.0987 val_RMSE=0.1056 val_MAE=0.0280 val_CORR=0.6216 NSEmed=0.500 (17s)
+[LSTM_seed1] ep  11/18 grid=None train_rmse=0.0984 val_RMSE=0.1026 val_MAE=0.0229 val_CORR=0.6423 NSEmed=0.594 (19s)
+[LSTM_seed1] ep  12/18 grid=None train_rmse=0.0980 val_RMSE=0.1026 val_MAE=0.0212 val_CORR=0.6425 NSEmed=0.627 (17s)
+[LSTM_seed1] ep  13/18 grid=None train_rmse=0.0978 val_RMSE=0.1024 val_MAE=0.0225 val_CORR=0.6438 NSEmed=0.608 (18s)
+[LSTM_seed1] ep  14/18 grid=None train_rmse=0.0974 val_RMSE=0.1043 val_MAE=0.0244 val_CORR=0.6307 NSEmed=0.570 (19s)
+[LSTM_seed1] ep  15/18 grid=None train_rmse=0.0973 val_RMSE=0.1019 val_MAE=0.0225 val_CORR=0.6472 NSEmed=0.608 (18s)
+[LSTM_seed1] ep  16/18 grid=None train_rmse=0.0978 val_RMSE=0.1068 val_MAE=0.0329 val_CORR=0.6129 NSEmed=0.262 (17s)
+[LSTM_seed1] ep  17/18 grid=None train_rmse=0.0968 val_RMSE=0.1019 val_MAE=0.0251 val_CORR=0.6477 NSEmed=0.536 (18s)
+[LSTM_seed1] ep  18/18 grid=None train_rmse=0.0965 val_RMSE=0.1060 val_MAE=0.0261 val_CORR=0.6187 NSEmed=0.550 (18s)
+==> LSTM_seed1: val RMSE 0.1019 CORR 0.6477 | test RMSE 0.1011 (332s)
+[RFKAN_L72_seed2] ep   1/18 grid=3 train_rmse=0.1219 val_RMSE=0.1240 val_MAE=0.0344 val_CORR=0.4781 NSEmed=0.354 (24s)
+[RFKAN_L72_seed2] ep   2/18 grid=3 train_rmse=0.1131 val_RMSE=0.1175 val_MAE=0.0306 val_CORR=0.5307 NSEmed=0.368 (25s)
+[RFKAN_L72_seed2] ep   3/18 grid=3 train_rmse=0.1103 val_RMSE=0.1144 val_MAE=0.0290 val_CORR=0.5552 NSEmed=0.442 (25s)
+[RFKAN_L72_seed2] ep   4/18 grid=5 train_rmse=0.1084 val_RMSE=0.1147 val_MAE=0.0336 val_CORR=0.5532 NSEmed=0.352 (24s)
+[RFKAN_L72_seed2] ep   5/18 grid=5 train_rmse=0.1071 val_RMSE=0.1142 val_MAE=0.0359 val_CORR=0.5570 NSEmed=0.272 (26s)
+[RFKAN_L72_seed2] ep   6/18 grid=5 train_rmse=0.1065 val_RMSE=0.1139 val_MAE=0.0348 val_CORR=0.5597 NSEmed=0.307 (22s)
+[RFKAN_L72_seed2] ep   7/18 grid=10 train_rmse=0.1056 val_RMSE=0.1102 val_MAE=0.0293 val_CORR=0.5879 NSEmed=0.417 (21s)
+[RFKAN_L72_seed2] ep   8/18 grid=10 train_rmse=0.1050 val_RMSE=0.1181 val_MAE=0.0452 val_CORR=0.5261 NSEmed=0.008 (26s)
+[RFKAN_L72_seed2] ep   9/18 grid=10 train_rmse=0.1048 val_RMSE=0.1120 val_MAE=0.0337 val_CORR=0.5738 NSEmed=0.269 (26s)
+[RFKAN_L72_seed2] ep  10/18 grid=20 train_rmse=0.1040 val_RMSE=0.1123 val_MAE=0.0350 val_CORR=0.5716 NSEmed=0.276 (21s)
+[RFKAN_L72_seed2] ep  11/18 grid=20 train_rmse=0.1035 val_RMSE=0.1147 val_MAE=0.0369 val_CORR=0.5531 NSEmed=0.212 (25s)
+[RFKAN_L72_seed2] ep  12/18 grid=20 train_rmse=0.1032 val_RMSE=0.1132 val_MAE=0.0365 val_CORR=0.5651 NSEmed=0.260 (22s)
+[RFKAN_L72_seed2] ep  13/18 grid=50 train_rmse=0.1025 val_RMSE=0.1129 val_MAE=0.0366 val_CORR=0.5671 NSEmed=0.246 (22s)
+[RFKAN_L72_seed2] ep  14/18 grid=50 train_rmse=0.1020 val_RMSE=0.1122 val_MAE=0.0361 val_CORR=0.5727 NSEmed=0.295 (21s)
+[RFKAN_L72_seed2] ep  15/18 grid=50 train_rmse=0.1018 val_RMSE=0.1122 val_MAE=0.0358 val_CORR=0.5726 NSEmed=0.295 (21s)
+[RFKAN_L72_seed2] ep  16/18 grid=100 train_rmse=0.1013 val_RMSE=0.1126 val_MAE=0.0337 val_CORR=0.5696 NSEmed=0.321 (22s)
+[RFKAN_L72_seed2] ep  17/18 grid=100 train_rmse=0.1008 val_RMSE=0.1127 val_MAE=0.0348 val_CORR=0.5685 NSEmed=0.309 (25s)
+[RFKAN_L72_seed2] ep  18/18 grid=100 train_rmse=0.1007 val_RMSE=0.1151 val_MAE=0.0382 val_CORR=0.5497 NSEmed=0.207 (26s)
+==> RFKAN_L72_seed2: val RMSE 0.1102 CORR 0.5879 | test RMSE 0.1065 (427s)
+[LSTM_seed2] ep   1/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0249 val_CORR=0.3544 NSEmed=0.503 (21s)
+[LSTM_seed2] ep   2/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0249 val_CORR=0.3544 NSEmed=0.502 (20s)
+[LSTM_seed2] ep   3/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0248 val_CORR=0.3545 NSEmed=0.496 (22s)
+[LSTM_seed2] ep   4/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0247 val_CORR=0.3544 NSEmed=0.509 (20s)
+[LSTM_seed2] ep   5/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3545 NSEmed=0.510 (20s)
+[LSTM_seed2] ep   6/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3544 NSEmed=0.510 (18s)
+[LSTM_seed2] ep   7/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0251 val_CORR=0.3542 NSEmed=0.500 (18s)
+[LSTM_seed2] ep   8/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3546 NSEmed=0.506 (16s)
+[LSTM_seed2] ep   9/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0247 val_CORR=0.3544 NSEmed=0.510 (19s)
+[LSTM_seed2] ep  10/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0249 val_CORR=0.3544 NSEmed=0.505 (18s)
+[LSTM_seed2] ep  11/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3546 NSEmed=0.506 (18s)
+[LSTM_seed2] ep  12/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0248 val_CORR=0.3545 NSEmed=0.506 (16s)
+[LSTM_seed2] ep  13/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3545 NSEmed=0.506 (18s)
+[LSTM_seed2] ep  14/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3546 NSEmed=0.501 (16s)
+[LSTM_seed2] ep  15/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0248 val_CORR=0.3545 NSEmed=0.507 (18s)
+[LSTM_seed2] ep  16/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0256 val_CORR=0.3542 NSEmed=0.494 (17s)
+[LSTM_seed2] ep  17/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0247 val_CORR=0.3545 NSEmed=0.510 (17s)
+[LSTM_seed2] ep  18/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0251 val_CORR=0.3543 NSEmed=0.504 (17s)
+==> LSTM_seed2: val RMSE 0.1379 CORR 0.3546 | test RMSE 0.1188 (331s)
+[RFKAN_L72_seed3] ep   1/18 grid=3 train_rmse=0.1212 val_RMSE=0.1258 val_MAE=0.0466 val_CORR=0.4627 NSEmed=0.113 (25s)
+[RFKAN_L72_seed3] ep   2/18 grid=3 train_rmse=0.1128 val_RMSE=0.1191 val_MAE=0.0333 val_CORR=0.5182 NSEmed=0.348 (25s)
+[RFKAN_L72_seed3] ep   3/18 grid=3 train_rmse=0.1096 val_RMSE=0.1146 val_MAE=0.0301 val_CORR=0.5538 NSEmed=0.426 (22s)
+[RFKAN_L72_seed3] ep   4/18 grid=5 train_rmse=0.1076 val_RMSE=0.1106 val_MAE=0.0291 val_CORR=0.5844 NSEmed=0.415 (25s)
+[RFKAN_L72_seed3] ep   5/18 grid=5 train_rmse=0.1062 val_RMSE=0.1115 val_MAE=0.0309 val_CORR=0.5781 NSEmed=0.325 (23s)
+[RFKAN_L72_seed3] ep   6/18 grid=5 train_rmse=0.1054 val_RMSE=0.1152 val_MAE=0.0367 val_CORR=0.5493 NSEmed=0.193 (21s)
+[RFKAN_L72_seed3] ep   7/18 grid=10 train_rmse=0.1045 val_RMSE=0.1101 val_MAE=0.0310 val_CORR=0.5884 NSEmed=0.361 (20s)
+[RFKAN_L72_seed3] ep   8/18 grid=10 train_rmse=0.1042 val_RMSE=0.1119 val_MAE=0.0368 val_CORR=0.5750 NSEmed=0.215 (23s)
+[RFKAN_L72_seed3] ep   9/18 grid=10 train_rmse=0.1040 val_RMSE=0.1087 val_MAE=0.0327 val_CORR=0.5989 NSEmed=0.339 (22s)
+[RFKAN_L72_seed3] ep  10/18 grid=20 train_rmse=0.1030 val_RMSE=0.1096 val_MAE=0.0326 val_CORR=0.5918 NSEmed=0.331 (28s)
+[RFKAN_L72_seed3] ep  11/18 grid=20 train_rmse=0.1026 val_RMSE=0.1096 val_MAE=0.0319 val_CORR=0.5924 NSEmed=0.355 (28s)
+[RFKAN_L72_seed3] ep  12/18 grid=20 train_rmse=0.1022 val_RMSE=0.1088 val_MAE=0.0322 val_CORR=0.5983 NSEmed=0.329 (22s)
+[RFKAN_L72_seed3] ep  13/18 grid=50 train_rmse=0.1018 val_RMSE=0.1087 val_MAE=0.0319 val_CORR=0.5986 NSEmed=0.362 (23s)
+[RFKAN_L72_seed3] ep  14/18 grid=50 train_rmse=0.1013 val_RMSE=0.1100 val_MAE=0.0348 val_CORR=0.5890 NSEmed=0.271 (21s)
+[RFKAN_L72_seed3] ep  15/18 grid=50 train_rmse=0.1011 val_RMSE=0.1102 val_MAE=0.0342 val_CORR=0.5872 NSEmed=0.300 (22s)
+[RFKAN_L72_seed3] ep  16/18 grid=100 train_rmse=0.1008 val_RMSE=0.1101 val_MAE=0.0326 val_CORR=0.5886 NSEmed=0.333 (27s)
+[RFKAN_L72_seed3] ep  17/18 grid=100 train_rmse=0.1004 val_RMSE=0.1122 val_MAE=0.0390 val_CORR=0.5726 NSEmed=0.195 (26s)
+[RFKAN_L72_seed3] ep  18/18 grid=100 train_rmse=0.1001 val_RMSE=0.1116 val_MAE=0.0355 val_CORR=0.5769 NSEmed=0.278 (25s)
+==> RFKAN_L72_seed3: val RMSE 0.1087 CORR 0.5989 | test RMSE 0.1054 (431s)
+[LSTM_seed3] ep   1/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0249 val_CORR=0.3545 NSEmed=0.505 (21s)
+[LSTM_seed3] ep   2/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0249 val_CORR=0.3545 NSEmed=0.505 (20s)
+[LSTM_seed3] ep   3/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0248 val_CORR=0.3546 NSEmed=0.495 (21s)
+[LSTM_seed3] ep   4/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3545 NSEmed=0.510 (18s)
+[LSTM_seed3] ep   5/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3546 NSEmed=0.510 (19s)
+[LSTM_seed3] ep   6/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3546 NSEmed=0.510 (18s)
+[LSTM_seed3] ep   7/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0251 val_CORR=0.3544 NSEmed=0.505 (18s)
+[LSTM_seed3] ep   8/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3546 NSEmed=0.508 (18s)
+[LSTM_seed3] ep   9/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3545 NSEmed=0.511 (19s)
+[LSTM_seed3] ep  10/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0248 val_CORR=0.3545 NSEmed=0.508 (20s)
+[LSTM_seed3] ep  11/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3546 NSEmed=0.509 (19s)
+[LSTM_seed3] ep  12/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0248 val_CORR=0.3545 NSEmed=0.509 (18s)
+[LSTM_seed3] ep  13/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3546 NSEmed=0.509 (17s)
+[LSTM_seed3] ep  14/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0246 val_CORR=0.3546 NSEmed=0.506 (16s)
+[LSTM_seed3] ep  15/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0248 val_CORR=0.3545 NSEmed=0.508 (17s)
+[LSTM_seed3] ep  16/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0255 val_CORR=0.3542 NSEmed=0.494 (19s)
+[LSTM_seed3] ep  17/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0247 val_CORR=0.3545 NSEmed=0.512 (20s)
+[LSTM_seed3] ep  18/18 grid=None train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0251 val_CORR=0.3544 NSEmed=0.507 (19s)
+==> LSTM_seed3: val RMSE 0.1379 CORR 0.3546 | test RMSE 0.1188 (336s)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+37 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[18:54:36] === 4b/6 seqlen L=336 ===
+[KAN_L336] ep   1/18 grid=3 train_rmse=0.1270 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3545 NSEmed=0.525 (4s)
+[KAN_L336] ep   2/18 grid=3 train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3545 NSEmed=0.525 (4s)
+[KAN_L336] ep   3/18 grid=3 train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3545 NSEmed=0.525 (3s)
+[KAN_L336] ep   4/18 grid=5 train_rmse=0.1264 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3545 NSEmed=0.525 (4s)
+[KAN_L336] ep   5/18 grid=5 train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3546 NSEmed=0.523 (4s)
+[KAN_L336] ep   6/18 grid=5 train_rmse=0.1265 val_RMSE=0.1379 val_MAE=0.0245 val_CORR=0.3545 NSEmed=0.525 (4s)
+[KAN_L336] ep   7/18 grid=10 train_rmse=0.1240 val_RMSE=0.1335 val_MAE=0.0279 val_CORR=0.3944 NSEmed=0.453 (6s)
+[KAN_L336] ep   8/18 grid=10 train_rmse=0.1194 val_RMSE=0.1316 val_MAE=0.0324 val_CORR=0.4118 NSEmed=0.375 (6s)
+[KAN_L336] ep   9/18 grid=10 train_rmse=0.1157 val_RMSE=0.1304 val_MAE=0.0388 val_CORR=0.4224 NSEmed=0.238 (6s)
+[KAN_L336] ep  10/18 grid=20 train_rmse=0.1130 val_RMSE=0.1289 val_MAE=0.0339 val_CORR=0.4353 NSEmed=0.330 (10s)
+[KAN_L336] ep  11/18 grid=20 train_rmse=0.1102 val_RMSE=0.1284 val_MAE=0.0355 val_CORR=0.4399 NSEmed=0.281 (10s)
+[KAN_L336] ep  12/18 grid=20 train_rmse=0.1077 val_RMSE=0.1282 val_MAE=0.0359 val_CORR=0.4417 NSEmed=0.246 (10s)
+[KAN_L336] ep  13/18 grid=50 train_rmse=0.1058 val_RMSE=0.1296 val_MAE=0.0400 val_CORR=0.4294 NSEmed=0.157 (23s)
+[KAN_L336] ep  14/18 grid=50 train_rmse=0.1036 val_RMSE=0.1304 val_MAE=0.0413 val_CORR=0.4224 NSEmed=0.114 (26s)
+[KAN_L336] ep  15/18 grid=50 train_rmse=0.1017 val_RMSE=0.1310 val_MAE=0.0428 val_CORR=0.4175 NSEmed=0.077 (26s)
+[KAN_L336] ep  16/18 grid=100 train_rmse=0.1005 val_RMSE=0.1319 val_MAE=0.0441 val_CORR=0.4093 NSEmed=0.068 (44s)
+[KAN_L336] ep  17/18 grid=100 train_rmse=0.0989 val_RMSE=0.1327 val_MAE=0.0456 val_CORR=0.4022 NSEmed=0.026 (45s)
+[KAN_L336] ep  18/18 grid=100 train_rmse=0.0976 val_RMSE=0.1331 val_MAE=0.0463 val_CORR=0.3988 NSEmed=0.017 (44s)
+==> KAN_L336: val RMSE 0.1282 CORR 0.4417 | test RMSE 0.1126 (1460s)
+[RKAN_L336] ep   1/18 grid=3 train_rmse=0.1200 val_RMSE=0.1168 val_MAE=0.0306 val_CORR=0.5366 NSEmed=0.406 (78s)
+[RKAN_L336] ep   2/18 grid=3 train_rmse=0.1103 val_RMSE=0.1154 val_MAE=0.0313 val_CORR=0.5476 NSEmed=0.359 (89s)
+[RKAN_L336] ep   3/18 grid=3 train_rmse=0.1077 val_RMSE=0.1099 val_MAE=0.0252 val_CORR=0.5896 NSEmed=0.473 (102s)
+[RKAN_L336] ep   4/18 grid=5 train_rmse=0.1048 val_RMSE=0.1064 val_MAE=0.0247 val_CORR=0.6154 NSEmed=0.499 (106s)
+[RKAN_L336] ep   5/18 grid=5 train_rmse=0.1035 val_RMSE=0.1066 val_MAE=0.0286 val_CORR=0.6141 NSEmed=0.393 (112s)
+[RKAN_L336] ep   6/18 grid=5 train_rmse=0.1026 val_RMSE=0.1082 val_MAE=0.0289 val_CORR=0.6026 NSEmed=0.444 (111s)
+[RKAN_L336] ep   7/18 grid=10 train_rmse=0.1029 val_RMSE=0.1053 val_MAE=0.0257 val_CORR=0.6236 NSEmed=0.523 (113s)
+[RKAN_L336] ep   8/18 grid=10 train_rmse=0.1019 val_RMSE=0.1060 val_MAE=0.0265 val_CORR=0.6187 NSEmed=0.463 (120s)
+[RKAN_L336] ep   9/18 grid=10 train_rmse=0.1014 val_RMSE=0.1056 val_MAE=0.0245 val_CORR=0.6215 NSEmed=0.548 (115s)
+[RKAN_L336] ep  10/18 grid=20 train_rmse=0.1021 val_RMSE=0.1072 val_MAE=0.0265 val_CORR=0.6096 NSEmed=0.475 (145s)
+[RKAN_L336] ep  11/18 grid=20 train_rmse=0.1013 val_RMSE=0.1060 val_MAE=0.0249 val_CORR=0.6183 NSEmed=0.528 (145s)
+[RKAN_L336] ep  12/18 grid=20 train_rmse=0.1008 val_RMSE=0.1055 val_MAE=0.0252 val_CORR=0.6216 NSEmed=0.499 (144s)
+[RKAN_L336] ep  13/18 grid=50 train_rmse=0.1008 val_RMSE=0.1064 val_MAE=0.0256 val_CORR=0.6157 NSEmed=0.505 (196s)
+[RKAN_L336] ep  14/18 grid=50 train_rmse=0.1003 val_RMSE=0.1061 val_MAE=0.0265 val_CORR=0.6180 NSEmed=0.480 (186s)
+[RKAN_L336] ep  15/18 grid=50 train_rmse=0.0999 val_RMSE=0.1057 val_MAE=0.0263 val_CORR=0.6209 NSEmed=0.494 (185s)
+[W925 20:03:18.757168041 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 7398752256 bytes (free: 0, total: 17094475776).
+Traceback (most recent call last):
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 196, in <module>
+    main()
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 185, in main
+    suite_seqlen(a.lengths)
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 104, in suite_seqlen
+    kan(f"{name}_L{L}", "seqlen", name, L)
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 98, in kan
+    run_neural(arm, suite, name, seq_len, grid_schedule=kw.pop("grid_schedule", config.GRID_SCHEDULE), **kw)
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 75, in run_neural
+    hist = fit(model, arm, OUT, epochs, batch_size, grid_schedule=grid_schedule, stage_epochs=stage_epochs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/train.py", line 70, in fit
+    model.extend_grid(g, sample)
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/model.py", line 122, in extend_grid
+    self.core.extend_grid(new_grid, x_sample)
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/model.py", line 91, in extend_grid
+    x1 = self.layer1(in1)
+         ^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/kan_layers.py", line 96, in forward
+    y = y + torch.einsum("bic,oic->bo", self.b_splines(x), self.spline_w)
+                                        ^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/kan_layers.py", line 85, in b_splines
+    bases = ((x >= g[:, :-1]) & (x < g[:, 1:])).to(x.dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+The CUDA driver logged these messages, which may provide useful details:
+Sticky error detected
+Returning 2 (CUDA_ERROR_OUT_OF_MEMORY) from cuMemFree_v2
+
+
+[20:03:54] === 1/6 seqlen ===
+skip KAN_L72 (ya en resultados)
+skip RKAN_L72 (ya en resultados)
+skip FKAN_L72 (ya en resultados)
+skip RFKAN_L72 (ya en resultados)
+skip KAN_L2 (ya en resultados)
+skip RKAN_L2 (ya en resultados)
+skip FKAN_L2 (ya en resultados)
+skip RFKAN_L2 (ya en resultados)
+skip KAN_L12 (ya en resultados)
+skip RKAN_L12 (ya en resultados)
+skip FKAN_L12 (ya en resultados)
+skip RFKAN_L12 (ya en resultados)
+skip KAN_L24 (ya en resultados)
+skip RKAN_L24 (ya en resultados)
+skip FKAN_L24 (ya en resultados)
+skip RFKAN_L24 (ya en resultados)
+skip KAN_L168 (ya en resultados)
+skip RKAN_L168 (ya en resultados)
+skip FKAN_L168 (ya en resultados)
+skip RFKAN_L168 (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+38 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[20:04:53] === 2/6 grid (L=72) ===
+skip RFKAN_L72_grid_ext (ya en resultados)
+skip RFKAN_L72_fixed_g3 (ya en resultados)
+skip RFKAN_L72_fixed_g100 (ya en resultados)
+skip RFKAN_L72_nodecay (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+38 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[20:05:32] === 3/6 baselines ===
+skip LSTM (ya en resultados)
+skip GRU (ya en resultados)
+skip TCN (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+38 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[20:06:05] === 4/6 seeds ===
+skip RFKAN_L72_seed1 (ya en resultados)
+skip LSTM_seed1 (ya en resultados)
+skip RFKAN_L72_seed2 (ya en resultados)
+skip LSTM_seed2 (ya en resultados)
+skip RFKAN_L72_seed3 (ya en resultados)
+skip LSTM_seed3 (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+38 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[20:06:36] === 4b/6 seqlen L=336 ===
+skip KAN_L336 (ya en resultados)
+[RKAN_L336] ep   1/18 grid=3 train_rmse=0.1200 val_RMSE=0.1168 val_MAE=0.0306 val_CORR=0.5366 NSEmed=0.406 (74s)
+[RKAN_L336] ep   2/18 grid=3 train_rmse=0.1103 val_RMSE=0.1154 val_MAE=0.0313 val_CORR=0.5476 NSEmed=0.359 (74s)
+[RKAN_L336] ep   3/18 grid=3 train_rmse=0.1077 val_RMSE=0.1099 val_MAE=0.0252 val_CORR=0.5896 NSEmed=0.473 (77s)
+[RKAN_L336] ep   4/18 grid=5 train_rmse=0.1048 val_RMSE=0.1064 val_MAE=0.0247 val_CORR=0.6154 NSEmed=0.499 (110s)
+[RKAN_L336] ep   5/18 grid=5 train_rmse=0.1035 val_RMSE=0.1066 val_MAE=0.0286 val_CORR=0.6141 NSEmed=0.393 (105s)
+[RKAN_L336] ep   6/18 grid=5 train_rmse=0.1026 val_RMSE=0.1082 val_MAE=0.0289 val_CORR=0.6026 NSEmed=0.444 (105s)
+[RKAN_L336] ep   7/18 grid=10 train_rmse=0.1029 val_RMSE=0.1053 val_MAE=0.0257 val_CORR=0.6236 NSEmed=0.523 (109s)
+[RKAN_L336] ep   8/18 grid=10 train_rmse=0.1019 val_RMSE=0.1060 val_MAE=0.0265 val_CORR=0.6187 NSEmed=0.463 (114s)
+[RKAN_L336] ep   9/18 grid=10 train_rmse=0.1014 val_RMSE=0.1056 val_MAE=0.0245 val_CORR=0.6215 NSEmed=0.548 (107s)
+[RKAN_L336] ep  10/18 grid=20 train_rmse=0.1021 val_RMSE=0.1072 val_MAE=0.0265 val_CORR=0.6096 NSEmed=0.475 (122s)
+[RKAN_L336] ep  11/18 grid=20 train_rmse=0.1013 val_RMSE=0.1060 val_MAE=0.0249 val_CORR=0.6183 NSEmed=0.528 (126s)
+[RKAN_L336] ep  12/18 grid=20 train_rmse=0.1008 val_RMSE=0.1055 val_MAE=0.0252 val_CORR=0.6216 NSEmed=0.499 (110s)
+[RKAN_L336] ep  13/18 grid=50 train_rmse=0.1008 val_RMSE=0.1064 val_MAE=0.0256 val_CORR=0.6157 NSEmed=0.505 (919s)
+[RKAN_L336] ep  14/18 grid=50 train_rmse=0.1003 val_RMSE=0.1061 val_MAE=0.0265 val_CORR=0.6180 NSEmed=0.480 (1029s)
+[RKAN_L336] ep  15/18 grid=50 train_rmse=0.0999 val_RMSE=0.1057 val_MAE=0.0263 val_CORR=0.6209 NSEmed=0.494 (1030s)
+[W925 22:58:51.181301673 CUDACachingAllocator.cpp:3934] memory allocation failed with OOM on device 0 while trying to allocate 6937378816 bytes (free: 0, total: 0).
+Traceback (most recent call last):
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 196, in <module>
+    main()
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 185, in main
+    suite_seqlen(a.lengths)
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 104, in suite_seqlen
+    kan(f"{name}_L{L}", "seqlen", name, L)
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 98, in kan
+    run_neural(arm, suite, name, seq_len, grid_schedule=kw.pop("grid_schedule", config.GRID_SCHEDULE), **kw)
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/experiments.py", line 75, in run_neural
+    hist = fit(model, arm, OUT, epochs, batch_size, grid_schedule=grid_schedule, stage_epochs=stage_epochs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/train.py", line 86, in fit
+    pv = predict(model, val, scaler)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/train.py", line 42, in predict
+    out = [model(xb) for xb, _ in data.batches(batch_size, shuffle=False)]
+           ^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/model.py", line 118, in forward
+    out = self.core(x)
+          ^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/model.py", line 84, in forward
+    x1 = self.layer1(self._layer1_input(x))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1783, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/.venv/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1794, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/kan_layers.py", line 96, in forward
+    y = y + torch.einsum("bic,oic->bo", self.b_splines(x), self.spline_w)
+                                        ^^^^^^^^^^^^^^^^^
+  File "/home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/kan_layers.py", line 88, in b_splines
+    right = (g[:, p + 1:] - x) / (g[:, p + 1:] - g[:, 1:-p]) * bases[..., 1:]
+            ~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+torch.AcceleratorError: CUDA error: out of memory
+Search for `cudaErrorMemoryAllocation' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+The CUDA driver logged these messages, which may provide useful details:
+Sticky error detected
+Returning 2 (CUDA_ERROR_OUT_OF_MEMORY) from cuMemFree_v2
+
+

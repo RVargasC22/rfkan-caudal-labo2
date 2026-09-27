@@ -1,0 +1,528 @@
+[05:35:36] === 1/6 seqlen ===
+skip KAN_L72 (ya en resultados)
+skip RKAN_L72 (ya en resultados)
+skip FKAN_L72 (ya en resultados)
+skip RFKAN_L72 (ya en resultados)
+skip KAN_L2 (ya en resultados)
+skip RKAN_L2 (ya en resultados)
+skip FKAN_L2 (ya en resultados)
+skip RFKAN_L2 (ya en resultados)
+skip KAN_L12 (ya en resultados)
+skip RKAN_L12 (ya en resultados)
+skip FKAN_L12 (ya en resultados)
+skip RFKAN_L12 (ya en resultados)
+skip KAN_L24 (ya en resultados)
+skip RKAN_L24 (ya en resultados)
+skip FKAN_L24 (ya en resultados)
+skip RFKAN_L24 (ya en resultados)
+skip KAN_L168 (ya en resultados)
+skip RKAN_L168 (ya en resultados)
+skip FKAN_L168 (ya en resultados)
+skip RFKAN_L168 (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+pkl: RKAN_L336
+pkl: FKAN_L336
+pkl: RFKAN_L336
+pkl: Informer
+pkl: LSTM_L2
+pkl: GRU_L2
+pkl: TCN_L2
+pkl: LSTM_L12
+pkl: GRU_L12
+pkl: TCN_L12
+pkl: LSTM_L24
+pkl: GRU_L24
+pkl: TCN_L24
+pkl: LSTM_L168
+pkl: GRU_L168
+pkl: TCN_L168
+54 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[05:36:13] === 2/6 grid (L=72) ===
+skip RFKAN_L72_grid_ext (ya en resultados)
+skip RFKAN_L72_fixed_g3 (ya en resultados)
+skip RFKAN_L72_fixed_g100 (ya en resultados)
+skip RFKAN_L72_nodecay (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+pkl: RKAN_L336
+pkl: FKAN_L336
+pkl: RFKAN_L336
+pkl: Informer
+pkl: LSTM_L2
+pkl: GRU_L2
+pkl: TCN_L2
+pkl: LSTM_L12
+pkl: GRU_L12
+pkl: TCN_L12
+pkl: LSTM_L24
+pkl: GRU_L24
+pkl: TCN_L24
+pkl: LSTM_L168
+pkl: GRU_L168
+pkl: TCN_L168
+54 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[05:36:49] === 3/6 baselines ===
+skip LSTM (ya en resultados)
+skip GRU (ya en resultados)
+skip TCN (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+pkl: RKAN_L336
+pkl: FKAN_L336
+pkl: RFKAN_L336
+pkl: Informer
+pkl: LSTM_L2
+pkl: GRU_L2
+pkl: TCN_L2
+pkl: LSTM_L12
+pkl: GRU_L12
+pkl: TCN_L12
+pkl: LSTM_L24
+pkl: GRU_L24
+pkl: TCN_L24
+pkl: LSTM_L168
+pkl: GRU_L168
+pkl: TCN_L168
+54 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[05:37:27] === 4/6 seeds ===
+skip RFKAN_L72_seed1 (ya en resultados)
+skip LSTM_seed1 (ya en resultados)
+skip RFKAN_L72_seed2 (ya en resultados)
+skip LSTM_seed2 (ya en resultados)
+skip RFKAN_L72_seed3 (ya en resultados)
+skip LSTM_seed3 (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+pkl: RKAN_L336
+pkl: FKAN_L336
+pkl: RFKAN_L336
+pkl: Informer
+pkl: LSTM_L2
+pkl: GRU_L2
+pkl: TCN_L2
+pkl: LSTM_L12
+pkl: GRU_L12
+pkl: TCN_L12
+pkl: LSTM_L24
+pkl: GRU_L24
+pkl: TCN_L24
+pkl: LSTM_L168
+pkl: GRU_L168
+pkl: TCN_L168
+54 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[05:38:02] === 4b/6 seqlen L=336 ===
+skip KAN_L336 (ya en resultados)
+skip RKAN_L336 (ya en resultados)
+skip FKAN_L336 (ya en resultados)
+skip RFKAN_L336 (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+pkl: RKAN_L336
+pkl: FKAN_L336
+pkl: RFKAN_L336
+pkl: Informer
+pkl: LSTM_L2
+pkl: GRU_L2
+pkl: TCN_L2
+pkl: LSTM_L12
+pkl: GRU_L12
+pkl: TCN_L12
+pkl: LSTM_L24
+pkl: GRU_L24
+pkl: TCN_L24
+pkl: LSTM_L168
+pkl: GRU_L168
+pkl: TCN_L168
+54 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[05:38:38] === 4c/6 advanced (Informer) ===
+skip Informer (ya en resultados)
+WVS: K=5 alpha=100 variables=[6, 7, 8] entropia=3.956 (12s)
+[WVS] ep   1/18 grid=None train_rmse=0.1071 val_RMSE=0.1099 val_MAE=0.0252 val_CORR=0.5900 NSEmed=0.553 (173s)
+[WVS] ep   2/18 grid=None train_rmse=0.1054 val_RMSE=0.1133 val_MAE=0.0256 val_CORR=0.5643 NSEmed=0.547 (186s)
+[WVS] ep   3/18 grid=None train_rmse=0.1052 val_RMSE=0.1091 val_MAE=0.0235 val_CORR=0.5958 NSEmed=0.586 (178s)
+[WVS] ep   4/18 grid=None train_rmse=0.1058 val_RMSE=0.1165 val_MAE=0.0246 val_CORR=0.5387 NSEmed=0.572 (186s)
+[WVS] ep   5/18 grid=None train_rmse=0.1061 val_RMSE=0.1110 val_MAE=0.0241 val_CORR=0.5812 NSEmed=0.576 (188s)
+[WVS] ep   6/18 grid=None train_rmse=0.1056 val_RMSE=0.1103 val_MAE=0.0246 val_CORR=0.5869 NSEmed=0.557 (187s)
+[WVS] ep   7/18 grid=None train_rmse=0.1060 val_RMSE=0.1131 val_MAE=0.0242 val_CORR=0.5658 NSEmed=0.555 (186s)
+[WVS] ep   8/18 grid=None train_rmse=0.1053 val_RMSE=0.1111 val_MAE=0.0241 val_CORR=0.5811 NSEmed=0.573 (175s)
+[WVS] ep   9/18 grid=None train_rmse=0.1059 val_RMSE=0.1133 val_MAE=0.0236 val_CORR=0.5640 NSEmed=0.577 (185s)
+[WVS] ep  10/18 grid=None train_rmse=0.1059 val_RMSE=0.1098 val_MAE=0.0309 val_CORR=0.5906 NSEmed=0.464 (187s)
+[WVS] ep  11/18 grid=None train_rmse=0.1056 val_RMSE=0.1119 val_MAE=0.0250 val_CORR=0.5748 NSEmed=0.569 (175s)
+[WVS] ep  12/18 grid=None train_rmse=0.1055 val_RMSE=0.1093 val_MAE=0.0241 val_CORR=0.5945 NSEmed=0.589 (208s)
+[WVS] ep  13/18 grid=None train_rmse=0.1044 val_RMSE=0.1087 val_MAE=0.0223 val_CORR=0.5988 NSEmed=0.598 (285s)
+[WVS] ep  14/18 grid=None train_rmse=0.1050 val_RMSE=0.1097 val_MAE=0.0237 val_CORR=0.5915 NSEmed=0.562 (322s)
+[WVS] ep  15/18 grid=None train_rmse=0.1056 val_RMSE=0.1106 val_MAE=0.0286 val_CORR=0.5843 NSEmed=0.518 (376s)
+[WVS] ep  16/18 grid=None train_rmse=0.1058 val_RMSE=0.1093 val_MAE=0.0286 val_CORR=0.5945 NSEmed=0.487 (388s)
+[WVS] ep  17/18 grid=None train_rmse=0.1050 val_RMSE=0.1094 val_MAE=0.0239 val_CORR=0.5933 NSEmed=0.577 (297s)
+[WVS] ep  18/18 grid=None train_rmse=0.1051 val_RMSE=0.1112 val_MAE=0.0243 val_CORR=0.5801 NSEmed=0.576 (314s)
+==> WVS: val RMSE 0.1087 CORR 0.5988 | test RMSE 0.1061 (4202s)
+TACDPG: variables=[3, 5, 8, 9, 10, 11] outliers_train=0.086 CatBoost_acc_val=0.930 (6s)
+[TACDPG-normal] episodio 14/256 val_RMSE=0.0821 val_CORR=0.3808 (4s)
+[TACDPG-normal] episodio 28/256 val_RMSE=0.0832 val_CORR=0.3644 (7s)
+[TACDPG-normal] episodio 42/256 val_RMSE=0.0834 val_CORR=0.3612 (11s)
+[TACDPG-normal] episodio 56/256 val_RMSE=0.0848 val_CORR=0.3390 (14s)
+[TACDPG-normal] episodio 70/256 val_RMSE=0.0860 val_CORR=0.3202 (18s)
+[TACDPG-normal] episodio 84/256 val_RMSE=0.0821 val_CORR=0.3806 (21s)
+[TACDPG-normal] episodio 98/256 val_RMSE=0.0860 val_CORR=0.3204 (25s)
+[TACDPG-normal] episodio 112/256 val_RMSE=0.0839 val_CORR=0.3525 (28s)
+[TACDPG-normal] episodio 126/256 val_RMSE=0.0890 val_CORR=0.2714 (32s)
+[TACDPG-normal] episodio 140/256 val_RMSE=0.0967 val_CORR=0.1401 (35s)
+[TACDPG-normal] episodio 154/256 val_RMSE=0.1046 val_CORR=-0.0058 (38s)
+[TACDPG-normal] episodio 168/256 val_RMSE=0.0871 val_CORR=0.3032 (42s)
+[TACDPG-normal] episodio 182/256 val_RMSE=0.0852 val_CORR=0.3335 (45s)
+[TACDPG-normal] episodio 196/256 val_RMSE=0.0862 val_CORR=0.3176 (49s)
+[TACDPG-normal] episodio 210/256 val_RMSE=0.0902 val_CORR=0.2525 (52s)
+[TACDPG-normal] episodio 224/256 val_RMSE=0.0840 val_CORR=0.3514 (55s)
+[TACDPG-normal] episodio 238/256 val_RMSE=0.0844 val_CORR=0.3459 (59s)
+[TACDPG-normal] episodio 252/256 val_RMSE=0.0920 val_CORR=0.2213 (62s)
+[TACDPG-normal] episodio 256/256 val_RMSE=0.0997 val_CORR=0.0870 (63s)
+[TACDPG-outlier] episodio 1/24 val_RMSE=0.5962 val_CORR=-0.2565 (0s)
+[TACDPG-outlier] episodio 2/24 val_RMSE=0.6018 val_CORR=-0.2799 (0s)
+[TACDPG-outlier] episodio 3/24 val_RMSE=0.6022 val_CORR=-0.2819 (1s)
+[TACDPG-outlier] episodio 4/24 val_RMSE=0.5969 val_CORR=-0.2593 (1s)
+[TACDPG-outlier] episodio 5/24 val_RMSE=0.6018 val_CORR=-0.2799 (1s)
+[TACDPG-outlier] episodio 6/24 val_RMSE=0.5977 val_CORR=-0.2629 (1s)
+[TACDPG-outlier] episodio 7/24 val_RMSE=0.5972 val_CORR=-0.2604 (2s)
+[TACDPG-outlier] episodio 8/24 val_RMSE=0.5997 val_CORR=-0.2711 (2s)
+[TACDPG-outlier] episodio 9/24 val_RMSE=0.5989 val_CORR=-0.2677 (2s)
+[TACDPG-outlier] episodio 10/24 val_RMSE=0.6098 val_CORR=-0.3145 (2s)
+[TACDPG-outlier] episodio 11/24 val_RMSE=0.6008 val_CORR=-0.2758 (3s)
+[TACDPG-outlier] episodio 12/24 val_RMSE=0.6035 val_CORR=-0.2872 (3s)
+[TACDPG-outlier] episodio 13/24 val_RMSE=0.6010 val_CORR=-0.2768 (3s)
+[TACDPG-outlier] episodio 14/24 val_RMSE=0.6073 val_CORR=-0.3034 (3s)
+[TACDPG-outlier] episodio 15/24 val_RMSE=0.6069 val_CORR=-0.3020 (4s)
+[TACDPG-outlier] episodio 16/24 val_RMSE=0.6085 val_CORR=-0.3089 (4s)
+[TACDPG-outlier] episodio 17/24 val_RMSE=0.6198 val_CORR=-0.3576 (4s)
+[TACDPG-outlier] episodio 18/24 val_RMSE=0.6098 val_CORR=-0.3144 (4s)
+[TACDPG-outlier] episodio 19/24 val_RMSE=0.6339 val_CORR=-0.4204 (5s)
+[TACDPG-outlier] episodio 20/24 val_RMSE=0.6229 val_CORR=-0.3716 (5s)
+[TACDPG-outlier] episodio 21/24 val_RMSE=0.6364 val_CORR=-0.4314 (5s)
+[TACDPG-outlier] episodio 22/24 val_RMSE=0.6786 val_CORR=-0.6278 (5s)
+[TACDPG-outlier] episodio 23/24 val_RMSE=0.6586 val_CORR=-0.5332 (6s)
+[TACDPG-outlier] episodio 24/24 val_RMSE=0.6681 val_CORR=-0.5775 (6s)
+==> TACDPG: val RMSE 0.1393 CORR 0.3410 | test RMSE 0.1205 (69s)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+pkl: RKAN_L336
+pkl: FKAN_L336
+pkl: RFKAN_L336
+pkl: Informer
+pkl: LSTM_L2
+pkl: GRU_L2
+pkl: TCN_L2
+pkl: LSTM_L12
+pkl: GRU_L12
+pkl: TCN_L12
+pkl: LSTM_L24
+pkl: GRU_L24
+pkl: TCN_L24
+pkl: LSTM_L168
+pkl: GRU_L168
+pkl: TCN_L168
+pkl: WVS
+pkl: TACDPG
+56 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[06:50:58] === 4d/6 seqlen_base ===
+skip LSTM_L2 (ya en resultados)
+skip GRU_L2 (ya en resultados)
+skip TCN_L2 (ya en resultados)
+skip LSTM_L12 (ya en resultados)
+skip GRU_L12 (ya en resultados)
+skip TCN_L12 (ya en resultados)
+skip LSTM_L24 (ya en resultados)
+skip GRU_L24 (ya en resultados)
+skip TCN_L24 (ya en resultados)
+skip LSTM_L168 (ya en resultados)
+skip GRU_L168 (ya en resultados)
+skip TCN_L168 (ya en resultados)
+pkl: Persistence
+pkl: SVR
+pkl: ARIMA
+pkl: KAN_L72
+pkl: RKAN_L72
+pkl: FKAN_L72
+pkl: RFKAN_L72
+pkl: KAN_L2
+pkl: RKAN_L2
+pkl: FKAN_L2
+pkl: RFKAN_L2
+pkl: KAN_L12
+pkl: RKAN_L12
+pkl: FKAN_L12
+pkl: RFKAN_L12
+pkl: KAN_L24
+pkl: RKAN_L24
+pkl: FKAN_L24
+pkl: RFKAN_L24
+pkl: KAN_L168
+pkl: RKAN_L168
+pkl: FKAN_L168
+pkl: RFKAN_L168
+pkl: RFKAN_L72_grid_ext
+pkl: RFKAN_L72_fixed_g3
+pkl: RFKAN_L72_fixed_g100
+pkl: RFKAN_L72_nodecay
+pkl: ELM
+pkl: LSTM
+pkl: GRU
+pkl: TCN
+pkl: RFKAN_L72_seed1
+pkl: LSTM_seed1
+pkl: RFKAN_L72_seed2
+pkl: LSTM_seed2
+pkl: RFKAN_L72_seed3
+pkl: LSTM_seed3
+pkl: KAN_L336
+pkl: RKAN_L336
+pkl: FKAN_L336
+pkl: RFKAN_L336
+pkl: Informer
+pkl: LSTM_L2
+pkl: GRU_L2
+pkl: TCN_L2
+pkl: LSTM_L12
+pkl: GRU_L12
+pkl: TCN_L12
+pkl: LSTM_L24
+pkl: GRU_L24
+pkl: TCN_L24
+pkl: LSTM_L168
+pkl: GRU_L168
+pkl: TCN_L168
+pkl: WVS
+pkl: TACDPG
+56 brazos -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/pkl/ALL.pkl
+[06:51:48] === 5/6 predict ===
+27983 filas -> /home/rovargas/Maestria/DeepLearning/Labo2/lab/repo/outputs/experiments/predictions_test_RFKAN_L72.csv
+test: {'RMSE': 0.1051, 'MAE': 0.0273, 'CORR': 0.6053, 'KGE': 0.6804, 'NSE_median': 0.4934, 'NSE_mean': -3.6335}
+[06:52:12] === 6/6 analyze ===
+-> tabla3_ablacion.md
+-> tabla6_comparacion.md
+-> tabla7_avanzados.md
+-> tabla_seeds.md
+-> tabla_grid.md
+-> fig5_seqlen.png
+-> fig4_grid.png
+-> fig_horizonte.png
+-> fig_nse_cuencas.png
+-> fig_hidrogramas.png
+-> errores_por_regimen.md
+-> picos.md
+[06:52:13] === PIPELINE COMPLETO ===
