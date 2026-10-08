@@ -1,0 +1,10 @@
+# pesados / regenerables desde el pipeline
+outputs/**/*.pt
+outputs/**/*.npz
+outputs/**/pkl/
+outputs/experiments_v1/
+outputs/train_run/
+catboost_info/
+__pycache__/
+*.pyc
+*:Zone.Identifier
